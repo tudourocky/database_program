@@ -1,5 +1,5 @@
 # Movies/TV Series Database
-A small database written in C++ to store information of TV Series and Movies
+A command prompt database written in C++ to store information of TV Series and Movies
 
 ---
 This database stores each TV Serie/Movie as four comma seperated values:
