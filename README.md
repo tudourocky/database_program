@@ -8,6 +8,7 @@ These values includes
 - Director
 - Number of episodes
 - Rating of the movie/TV series
+
 The database can perform CRUD for instance, it can:
 - Add new Movie
 - Delete a Movie
