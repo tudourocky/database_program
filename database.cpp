@@ -10,8 +10,10 @@ void Database::update_database(){
     string temp;
     int period = 0;
     series.clear();
-    
+    int counter = 0;
     while(getline(input, line)){
+        cout << counter++ << endl;
+        cout << line << endl;
         for(int i = 0; i < line.size(); i++) {
             if(line[i]=='|' || i == line.size()-1){
                 period++;

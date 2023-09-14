@@ -1,20 +1,2974 @@
-A Silent Voice| Naoko Yamada| 1| 4
-5 Centimeters per Second| Makoto Shinkai| 1| 5
-Spider-Man: No Way Home| Jon Watts| 1| 5
-Your Name| Makoto Shinkai| 1| 5
-The Flash| Greg Berlanti| 23| 3
-Stranger Things| The Duffer Brothers| 8| 3
-More than Blue: The Series| Hsieh Pei-ju| 10| 4
-The Rise of Phoenixes| Shen Yan| 56| 4
-Hyōka| Yasuhiro Takemoto| 22| 5
-The Valour and the Horror| Brian McKenna| 3| 4
-Moon Knight| Jeremy Slater| 2| 2
-The Queen's Gambit| Scott Frank| 7| 5
-The Witcher| Sonya Belousova| 16| 3
-Sense8| Lana Wachowski| 24| 1
-Californication| David Duchovny| 84| 2
-Homeland| Lauren White| 96| 5
-Prison Break| Ramin Djawadi| 90| 5
-Lost| Michael Giacchino| 121| 1
-Ash vs Evil Dead| Chloe Smith| 30| 5
-Game of Thrones| Ramin Djawadi| 73| 5
+The Family Man| Manoj Bajpayee| 42| 9
+Lucifer| Tom Ellis| 45| 8
+The Handmaid's Tale| Elisabeth Moss| 42| 8
+StartUp| Adam Brody| 60| 8
+Game of Thrones| Emilia Clarke| 44| 9
+The Kominsky Method| Michael Douglas| 57| 8
+Grey's Anatomy| Ellen Pompeo| 30| 8
+The Blacklist| James Spader| 41| 8
+Dirty John| Connie Britton| 43| 7
+The Walking Dead| Andrew Lincoln| 44| 8
+Breaking Bad| Bryan Cranston| 44| 9
+Peaky Blinders| Cillian Murphy| 49| 9
+The Boys| Karl Urban| 60| 9
+The Office| Steve Carell| 60| 9
+Vikings| Katheryn Winnick| 22| 9
+Criminal Minds| Matthew Gray Gubler| 44| 8
+Manifest| Melissa Roxburgh| 42| 7
+Yellowstone| Kevin Costner| 43| 9
+Stranger Things| Millie Bobby Brown| 60| 9
+Why Women Kill| Jack Davenport| 51| 8
+The Flash| Grant Gustin| 43| 8
+Supernatural| Jared Padalecki| 44| 8
+NCIS: Naval Criminal Investigative Service| Mark Harmon| 60| 8
+The Good Doctor| Freddie Highmore| 41| 8
+Line of Duty| Martin Compston| 60| 9
+Fear the Walking Dead| Kim Dickens| 44| 7
+Downton Abbey| Hugh Bonneville| 58| 9
+Modern Family| """Ed ONeill"""| 22| 8
+La casa de papel| Úrsula Corberó| 70| 8
+Schitt's Creek| Eugene Levy| 22| 9
+Outlander| Caitriona Balfe| 64| 8
+Shingeki no kyojin| Yûki Kaji| 24| 9
+War of the Worlds| Léa Drucker| 49| 6
+The Big Bang Theory| Johnny Galecki| 22| 8
+Younger| Sutton Foster| 22| 8
+Dexter| Michael C. Hall| 53| 9
+New Amsterdam| Ryan Eggold| 43| 8
+Brooklyn Nine-Nine| Andy Samberg| 22| 8
+Fargo| Billy Bob Thornton| 53| 9
+The Mandalorian| Pedro Pascal| 40| 9
+Better Call Saul| Bob Odenkirk| 46| 9
+This Is Us| Milo Ventimiglia| 45| 9
+Rick and Morty| Justin Roiland| 23| 9
+Queen of the South| Alice Braga| 42| 8
+American Horror Story| Lady Gaga| 60| 8
+Black Mirror| Daniel Lapaine| 60| 9
+The Witcher| Henry Cavill| 60| 8
+The Crown| Claire Foy| 58| 9
+Lost| Jorge Garcia| 44| 8
+It's Always Sunny in Philadelphia| Charlie Day| 22| 9
+Kim's Convenience| Paul Sun-Hyung Lee| 22| 8
+Shameless| Emmy Rossum| 46| 9
+S.W.A.T.| Shemar Moore| 43| 7
+How I Met Your Mother| Josh Radnor| 22| 8
+Pose| Mj Rodriguez| 60| 9
+New Girl| Zooey Deschanel| 22| 8
+See| Jason Momoa| 60| 8
+Ozark| Jason Bateman| 60| 8
+The 100| Eliza Taylor| 43| 8
+Doctor Who| Jodie Whittaker| 45| 9
+Westworld| Evan Rachel Wood| 62| 9
+The Vampire Diaries| Nina Dobrev| 43| 8
+The Wire| Dominic West| 59| 9
+A Million Little Things| David Giuntoli| 43| 8
+The Last Kingdom| Alexander Dreymon| 60| 8
+Sons of Anarchy| Charlie Hunnam| 45| 9
+Bones| Emily Deschanel| 40| 8
+Bosch| Titus Welliver| 51| 8
+Chicago Fire| Jesse Spencer| 43| 8
+True Detective| Vince Vaughn| 55| 9
+Community| Joel McHale| 22| 9
+Castlevania| Richard Armitage| 23| 8
+Master of None| Aziz Ansari| 30| 8
+House M.D.| Hugh Laurie| 44| 9
+Sex Education| Asa Butterfield| 45| 8
+The Bold Type| Katie Stevens| 45| 8
+Superstore| Ben Feldman| 22| 8
+The Expanse| Wes Chatham| 60| 9
+The Rookie| Nathan Fillion| 43| 8
+Suits| Gabriel Macht| 44| 8
+Parks and Recreation| Amy Poehler| 22| 9
+Cobra Kai| Ralph Macchio| 30| 9
+Legends of Tomorrow| Caity Lotz| 42| 7
+2009-01-01| Angela Bassett| 43| 8
+Heartland| Amber Marshall| 45| 8
+Broken But Beautiful| Vikrant Massey| 22| 9
+Mad Men| Jon Hamm| 47| 9
+Boku no hîrô akademia| Daiki Yamashita| 24| 9
+Dark| Louis Hofmann| 60| 9
+Chicago P.D.| Jason Beghe| 43| 8
+Euphoria| Zendaya| 55| 8
+Homeland| Claire Danes| 55| 8
+BoJack Horseman| Will Arnett| 25| 9
+Prison Break| Dominic Purcell| 44| 8
+Succession| Nicholas Braun| 60| 9
+Riverdale| K.J. Apa| 45| 7
+Hawaii Five-0| """Alex OLoughlin"""| 42| 7
+SEAL Team| David Boreanaz| 43| 8
+Billions| Paul Giamatti| 60| 8
+Agents of S.H.I.E.L.D.| Clark Gregg| 45| 8
+Good Girls| Christina Hendricks| 43| 8
+Call the Midwife| Vanessa Redgrave| 60| 8
+Legacies| Danielle Rose Russell| 45| 7
+Teen Wolf| Tyler Posey| 41| 8
+Mr Inbetween| Scott Ryan| 30| 9
+Arrow| Stephen Amell| 42| 8
+Titans| Brenton Thwaites| 45| 8
+For All Mankind| Joel Kinnaman| 60| 8
+Station 19| Jaina Lee Ortiz| 60| 7
+Scrubs| Zach Braff| 22| 8
+The Morning Show| Jennifer Aniston| 60| 8
+Two and a Half Men| Jon Cryer| 22| 7
+Star Wars: The Clone Wars| Tom Kane| 23| 8
+Once Upon a Time| Ginnifer Goodwin| 60| 8
+Happy Endings| Eliza Coupe| 22| 8
+Orange Is the New Black| Taylor Schilling| 59| 8
+Batwoman| Camrus Johnson| 45| 3
+Killing Eve| Jodie Comer| 42| 8
+Mr. Robot| Rami Malek| 49| 9
+In Treatment| Gabriel Byrne| 25| 8
+Narcos| Pedro Pascal| 49| 9
+Sherlock| Benedict Cumberbatch| 88| 9
+Virgin River| Alexandra Breckenridge| 44| 8
+The Mentalist| Simon Baker| 43| 8
+Élite| Itzan Escamilla| 60| 8
+Arrested Development| Jason Bateman| 22| 9
+24| Kiefer Sutherland| 44| 8
+Supergirl| Melissa Benoist| 43| 6
+High School Musical: The Musical - The Series| Olivia Rodrigo| 31| 7
+Death in Paradise| Elizabeth Bourgine| 60| 8
+Animal Kingdom| Shawn Hatosy| 60| 8
+Mindhunter| Jonathan Groff| 60| 9
+The Sinner| Bill Pullman| 45| 8
+True Blood| Anna Paquin| 55| 8
+Psych| James Roday Rodriguez| 44| 8
+Jack Ryan| John Krasinski| 60| 8
+Demon Slayer: Kimetsu No Yaiba| Natsuki Hanae| 25| 9
+Prodigal Son| Tom Payne| 44| 8
+You| Penn Badgley| 45| 8
+Blue Bloods| Donnie Wahlberg| 43| 8
+Castle| Nathan Fillion| 43| 8
+Inside No. 9| Reece Shearsmith| 30| 9
+Spartacus: Blood and Sand| Andy Whitfield| 55| 9
+Young Sheldon| Iain Armitage| 30| 8
+The Good Place| Kristen Bell| 22| 8
+A Discovery of Witches| Matthew Goode| 60| 8
+NCIS: Los Angeles| """Chris ODonnell"""| 43| 7
+Motherland| Anna Maxwell Martin| 30| 8
+Bob's Burgers| H. Jon Benjamin| 22| 8
+Desperate Housewives| Teri Hatcher| 45| 8
+The Girlfriend Experience| Riley Keough| 27| 7
+Avatar: The Last Airbender| Dee Bradley Baker| 23| 9
+Star Trek: Discovery| Sonequa Martin-Green| 60| 7
+iCarly| Miranda Cosgrove| 30| 7
+NCIS: New Orleans| Scott Bakula| 42| 7
+Justified| Timothy Olyphant| 44| 9
+The Marvelous Mrs. Maisel| Rachel Brosnahan| 57| 9
+City on a Hill| Kevin Bacon| 60| 8
+Dynasty| Elizabeth Gillies| 42| 7
+Flack| Anna Paquin| 60| 7
+The O.C.| Mischa Barton| 44| 8
+Big Little Lies| Reese Witherspoon| 60| 9
+Chicago Med| Nick Gehlfuss| 43| 8
+Glee| Lea Michele| 44| 7
+The Originals| Joseph Morgan| 45| 8
+Godfather of Harlem| Forest Whitaker| 55| 8
+Gossip Girl| Blake Lively| 42| 7
+Broadchurch| David Tennant| 48| 8
+Black Summer| Justin Chu Cary| 40| 6
+The Goldbergs| Wendi McLendon-Covey| 22| 8
+The Resident| Matt Czuchry| 60| 8
+Banshee| Antony Starr| 60| 8
+The Chosen| Shahar Isaac| 54| 10
+Daredevil| Charlie Cox| 54| 9
+The Punisher| Jon Bernthal| 53| 9
+Smallville| Tom Welling| 60| 8
+Fringe| Anna Torv| 46| 8
+Special| """Ryan OConnell"""| 15| 8
+House of Cards| Kevin Spacey| 51| 9
+Entourage| Kevin Connolly| 28| 8
+Letterkenny| Jared Keeso| 30| 9
+Cold Case| Kathryn Morris| 44| 8
+13 Reasons Why| Dylan Minnette| 60| 8
+FBI| Missy Peregrym| 60| 7
+The Americans| Keri Russell| 44| 8
+Gotham| Ben McKenzie| 42| 8
+Monk| Tony Shalhoub| 44| 8
+How to Get Away with Murder| Viola Davis| 43| 8
+One Tree Hill| Chad Michael Murray| 60| 8
+The Leftovers| Justin Theroux| 60| 8
+Çukur| Aras Bulut Iynemli| 120| 7
+Good Witch| Catherine Bell| 48| 7
+Van Helsing| Kelly Overton| 43| 6
+Doom Patrol| Diane Guerrero| 60| 8
+What We Do in the Shadows| Kayvan Novak| 30| 9
+Rizzoli & Isles| Angie Harmon| 60| 8
+Mom| Allison Janney| 30| 7
+Jane the Virgin| Gina Rodriguez| 60| 8
+Girl From Nowhere| Chicha Amatayakul| 45| 8
+Boardwalk Empire| Steve Buscemi| 55| 9
+Pretty Little Liars| Troian Bellisario| 44| 7
+Six Feet Under| Peter Krause| 55| 9
+L.A.'s Finest| Jessica Alba| 60| 6
+White Collar| Matt Bomer| 40| 8
+The Man in the High Castle| Alexa Davalos| 60| 8
+Designated Survivor| Kiefer Sutherland| 60| 8
+Hunter x Hunter| Issei Futamata| 24| 9
+Grace and Frankie| Jane Fonda| 30| 8
+Mayans M.C.| JD Pardo| 60| 8
+Fleabag| Phoebe Waller-Bridge| 27| 9
+American Gods| Ricky Whittle| 60| 8
+Hannibal| Hugh Dancy| 44| 9
+Last Man Standing| Tim Allen| 30| 8
+The Fall| Gillian Anderson| 60| 8
+Person of Interest| Jim Caviezel| 43| 8
+Unforgotten| Sanjeev Bhaskar| 45| 8
+Snowfall| Damson Idris| 44| 8
+Barry| Bill Hader| 30| 8
+Warrior| Andrew Koji| 60| 8
+His Dark Materials| Dafne Keen| 60| 8
+Archer| H. Jon Benjamin| 22| 9
+Naruto: Shippûden| Junko Takeuchi| 24| 9
+Chuck| Zachary Levi| 43| 8
+American Dad!| Seth MacFarlane| 22| 7
+Final Space| Fred Armisen| 30| 8
+The Killing| Mireille Enos| 45| 8
+The Chi| Jason Mitchell| 60| 7
+Vera| Brenda Blethyn| 90| 8
+Miraculous: Tales of Ladybug & Cat Noir| Cristina Valenzuela| 20| 8
+Longmire| Robert Taylor| 60| 8
+Law & Order: Criminal Intent| Kathryn Erbe| 60| 7
+Death Note: Desu nôto| Mamoru Miyano| 24| 9
+Murdoch Mysteries| Yannick Bisson| 48| 8
+MacGyver| Lucas Till| 43| 5
+Shrill| Aidy Bryant| 30| 7
+Keeping Up with the Kardashians| Khloé Kardashian| 44| 3
+Star Wars: Rebels| Taylor Gray| 22| 8
+Silicon Valley| Thomas Middleditch| 28| 9
+Endeavour| Shaun Evans| 89| 9
+Nancy Drew| Kennedy McMann| 44| 6
+Naruto| Junko Takeuchi| 24| 8
+Battlestar Galactica| Edward James Olmos| 44| 9
+The Orville| Seth MacFarlane| 44| 8
+Harley Quinn| Kaley Cuoco| 23| 9
+Deadwood| Timothy Olyphant| 55| 9
+American Crime Story| Sarah Paulson| 42| 8
+Skins| Kaya Scodelario| 46| 8
+Black Sails| Jessica Parker Kennedy| 56| 8
+The Good Fight| Christine Baranski| 45| 8
+Mirzapur| Pankaj Tripathi| 60| 8
+Bates Motel| Vera Farmiga| 45| 8
+Charmed| Melonie Diaz| 43| 5
+Altered Carbon| Chris Conner| 60| 8
+Atypical| Jennifer Jason Leigh| 30| 8
+All American| Daniel Ezra| 45| 8
+Narcos: México| Scoot McNairy| 50| 8
+Dead to Me| Christina Applegate| 30| 8
+Ray Donovan| Liev Schreiber| 60| 8
+Hagane no renkinjutsushi| Kent Williams| 24| 9
+Anne| Amybeth McNulty| 60| 9
+Bull| Michael Weatherly| 60| 7
+Servant| Lauren Ambrose| 30| 8
+Luther| Idris Elba| 60| 9
+Magnum P.I.| Jay Hernandez| 43| 6
+Burn Notice| Jeffrey Donovan| 44| 8
+Reign| Adelaide Kane| 42| 8
+Adventure Time| John DiMaggio| 11| 9
+Major Crimes| Mary McDonnell| 43| 8
+Rome| Kevin McKidd| 52| 9
+ZeroZeroZero| Andrea Riseborough| 60| 8
+New Tricks| Dennis Waterman| 60| 8
+Revenge| Madeleine Stowe| 44| 8
+On Becoming a God in Central Florida| Kirsten Dunst| 46| 7
+Nanatsu no taizai| Bryce Papenbrook| 24| 8
+Mr. Mercedes| Brendan Gleeson| 60| 8
+JoJo no kimyô-na bôken| Matthew Mercer| 30| 8
+Enterprise| Scott Bakula| 60| 8
+Firefly| Nathan Fillion| 44| 9
+Gravity Falls| Jason Ritter| 23| 9
+Grimm| David Giuntoli| 45| 8
+The Magicians| Stella Maeve| 60| 8
+Sense8| Bae Doona| 60| 8
+Dirilis: Ertugrul| Engin Altan Düzyatan| 120| 8
+Carnival Row| Orlando Bloom| 56| 8
+Evil| Katja Herbers| 42| 8
+Bloodline| Kyle Chandler| 60| 8
+30 Rock| Tina Fey| 22| 8
+Big Mouth| Nick Kroll| 30| 8
+Elementary| Jonny Lee Miller| 60| 8
+After Life| Ricky Gervais| 30| 8
+Degrassi: The Next Generation| Stefan Brogren| 30| 7
+Friday Night Lights| Kyle Chandler| 44| 9
+Goliath| Billy Bob Thornton| 60| 8
+Heroes| Jack Coleman| 45| 8
+Taboo| Tom Hardy| 59| 8
+The End of the F***ing World| Jessica Barden| 25| 8
+Gomorra: La serie| Salvatore Esposito| 55| 9
+Bluey| David McCormack| 7| 10
+Z Nation| Russell Hodgkinson| 44| 7
+Lost in Space| Maxwell Jenkins| 60| 7
+Black Clover| Dallas Reid| 24| 8
+Alias| Jennifer Garner| 42| 8
+The Good Wife| Julianna Margulies| 43| 8
+Blindspot| Sullivan Stapleton| 42| 7
+When Calls the Heart| Erin Krakow| 43| 8
+Merlin| John Hurt| 45| 8
+CSI: Miami| David Caruso| 43| 6
+Parenthood| Peter Krause| 60| 8
+Power| Omari Hardwick| 50| 8
+Black Monday| Don Cheadle| 582| 8
+The Affair| Dominic West| 60| 8
+Travelers| Eric McCormack| 45| 8
+Siren| Alex Roe| 60| 7
+Veronica Mars| Kristen Bell| 44| 8
+One Punch Man: Wanpanman| Makoto Furukawa| 24| 9
+Atlanta| Donald Glover| 30| 9
+Twin Peaks| Kyle MacLachlan| 60| 9
+My Name Is Earl| Jason Lee| 22| 8
+Leverage| Timothy Hutton| 42| 8
+The Tudors| Jonathan Rhys Meyers| 60| 8
+Wayward Pines| Siobhan Fallon Hogan| 60| 7
+Chilling Adventures of Sabrina| Kiernan Shipka| 60| 8
+The Middle| Patricia Heaton| 22| 8
+The IT Crowd| """Chris ODowd"""| 25| 9
+Strike| Tom Burke| 60| 8
+Colony| Josh Holloway| 42| 7
+Shadowhunters: The Mortal Instruments| Katherine McNamara| 42| 7
+Penny Dreadful| Josh Hartnett| 60| 8
+Jessica Jones| Krysten Ritter| 56| 8
+Fruits Basket| Manaka Iwami| 24| 9
+Poldark| Aidan Turner| 60| 8
+The Alienist| Daniel Brühl| 60| 8
+Private Practice| Kate Walsh| 60| 7
+Derry Girls| Saoirse-Monica Jackson| 30| 8
+Genius| Samantha Colley| 43| 8
+Miracle Workers| Daniel Radcliffe| 22| 7
+The Ranch| Ashton Kutcher| 30| 8
+Joey| Matt LeBlanc| 22| 6
+The Shield| Michael Chiklis| 47| 9
+Boruto: Naruto Next Generations| Yûko Sanpei| 23| 7
+The Legend of Korra| Janet Varney| 23| 8
+Scandal| Kerry Washington| 43| 8
+Wentworth| Kate Atkinson| 45| 9
+Undercover| Tom Waes| 50| 8
+The Backyardigans| LaShawn Jefferies| 23| 7
+Californication| David Duchovny| 28| 8
+Workin' Moms| Catherine Reitman| 30| 8
+Ugly Betty| America Ferrera| 60| 7
+Victorious| Victoria Justice| 30| 7
+The Terror| Jared Harris| 60| 8
+Misfits| Nathan Stewart-Jarrett| 60| 8
+Agatha Christie's Marple| Geraldine McEwan| 93| 8
+Shetland| Douglas Henshall| 60| 8
+Episodes| Matt LeBlanc| 30| 8
+The Closer| Kyra Sedgwick| 46| 8
+Manhunt| Gethin Anthony| 60| 8
+Veep| Julia Louis-Dreyfus| 28| 8
+Legion| Dan Stevens| 60| 8
+Stargate: Atlantis| Joe Flanigan| 44| 8
+Good Trouble| Maia Mitchell| 45| 8
+Orphan Black| Tatiana Maslany| 44| 8
+Scorpion| Elyes Gabel| 43| 7
+Sa-rang-eui bul-sa-chak| Hyun Bin| 70| 9
+Bodyguard| Richard Madden| 60| 8
+Haikyuu!!| Ayumu Murase| 24| 9
+Skam| Josefine Frida Pettersen| 30| 9
+Nashville| Hayden Panettiere| 43| 8
+Foyle's War| Michael Kitchen| 90| 8
+Castle Rock| Bill Skarsgård| 60| 8
+Medici| Daniel Sharman| 60| 8
+The OA| Brit Marling| 60| 8
+Into the Badlands| Daniel Wu| 42| 8
+Trailer Park Boys| John Paul Tremblay| 30| 9
+Father Brown| Mark Williams| 52| 8
+Girls| Lena Dunham| 28| 7
+Doc Martin| Martin Clunes| 46| 8
+Dix pour cent| Camille Cottin| 52| 8
+Condor| Max Irons| 60| 8
+Hart of Dixie| Rachel Bilson| 60| 8
+Fauda| Lior Raz| 60| 8
+iZombie| Rose McIver| 42| 8
+Wynonna Earp| Melanie Scrofano| 43| 8
+The Brokenwood Mysteries| Neill Rea| 90| 8
+The Strain| Corey Stoll| 43| 7
+High School DxD| Yûki Kaji| 23| 8
+Shameless| David Threlfall| 90| 8
+Shtisel| """Dovale Glickman"""| 45| 9
+Yakusoku no Neverland| Sumire Morohoshi| 23| 9
+Taskmaster| Greg Davies| 60| 9
+The Fosters| Teri Polo| 60| 8
+Friday Night Dinner| Tamsin Greig| 24| 8
+The L Word| Jennifer Beals| 50| 8
+Kingdom| Ju Ji-Hoon| 45| 8
+Modern Love| Anne Hathaway| 32| 8
+Black-ish| Anthony Anderson| 22| 7
+Cougar Town| Courteney Cox| 22| 7
+Alone| Nicole Apelian| 44| 8
+Eureka| Colin Ferguson| 60| 8
+Top of the Lake| Elisabeth Moss| 60| 8
+Henry Danger| Jace Norman| 30| 6
+Ms Fisher's Modern Murder Mysteries| Geraldine Hakewill| 86| 7
+The Shannara Chronicles| Austin Butler| 42| 7
+Hanna| Esme Creed-Miles| 60| 8
+Harrow| Ioan Gruffudd| 60| 8
+The Newsroom| Jeff Daniels| 55| 9
+2 Broke Girls| Kat Dennings| 22| 7
+Reno 911!| Thomas Lennon| 22| 8
+Puberty Blues| Brenna Harding| 45| 8
+The Righteous Gemstones| John Goodman| 36| 8
+Russian Doll| Natasha Lyonne| 30| 8
+A Series of Unfortunate Events| Neil Patrick Harris| 50| 8
+The L Word: Generation Q| Jamie Clayton| 55| 7
+Lethal Weapon| Damon Wayans| 44| 8
+The Last Man on Earth| Will Forte| 22| 7
+Below Deck| Lee Rosbach| 43| 7
+Sneaky Pete| Giovanni Ribisi| 60| 8
+Search Party| Alia Shawkat| 24| 8
+The Office| Ricky Gervais| 30| 9
+Boston Legal| James Spader| 44| 8
+Luis Miguel: La Serie| Diego Boneta| 60| 8
+This Time with Alan Partridge| Steve Coogan| 30| 8
+Warehouse 13| Eddie McClintock| 43| 8
+The Durrells| Keeley Hawes| 46| 8
+Without a Trace| Anthony LaPaglia| 60| 7
+Happy Valley| Sarah Lancashire| 58| 8
+Lie to Me| Tim Roth| 43| 8
+Sacred Games| Saif Ali Khan| 50| 9
+Another Life| Katee Sackhoff| 43| 5
+Marcella| Anna Friel| 45| 7
+Black Lightning| Cress Williams| 43| 6
+The Grand Tour| Jeremy Clarkson| 60| 9
+She-Ra and the Princesses of Power| Aimee Carrero| 30| 8
+The Bay| Daniel Ryan| 45| 7
+Loudermilk| Ron Livingston| 30| 8
+The Order| Jake Manley| 60| 7
+Ash vs Evil Dead| Bruce Campbell| 30| 8
+DuckTales| David Tennant| 21| 8
+Preacher| Dominic Cooper| 60| 8
+Strike Back| Philip Winchester| 45| 8
+Halt and Catch Fire| Lee Pace| 60| 8
+Benidorm| Jake Canuso| 30| 7
+Unbreakable Kimmy Schmidt| Ellie Kemper| 30| 8
+Madam Secretary| Téa Leoni| 45| 8
+90210| Shenae Grimes-Beech| 60| 6
+Kurulus: Osman| Burak Özçivit| 120| 8
+Zach Stone Is Gonna Be Famous| Bo Burnham| 21| 8
+Love| Gillian Jacobs| 50| 8
+Drake & Josh| Drake Bell| 23| 8
+Iron Fist| Finn Jones| 55| 7
+Kingdom| Frank Grillo| 43| 9
+Save Me| Lennie James| 270| 8
+Masters of Sex| Michael Sheen| 60| 8
+Lewis| Kevin Whately| 90| 8
+Man with a Plan| Matt LeBlanc| 30| 7
+The Last Ship| Eric Dane| 60| 8
+Fresh Off the Boat| Randall Park| 22| 8
+Keeping Faith| Eve Myles| 60| 7
+Ghost Whisperer| Jennifer Love Hewitt| 60| 6
+Sanditon| Rose Williams| 60| 8
+Exit| Simon J. Berger| 30| 8
+Workaholics| Blake Anderson| 22| 8
+Ghosts| Lolly Adefope| 30| 8
+Brothers & Sisters| Dave Annable| 60| 7
+Sword Art Online| Yoshitsugu Matsuoka| 24| 8
+Riviera| Julia Stiles| 60| 7
+Agent Carter| Hayley Atwell| 42| 8
+Insecure| Issa Rae| 30| 8
+GLOW| Alison Brie| 35| 8
+The Society| Kathryn Newton| 58| 7
+Harlots| Lesley Manville| 45| 8
+Numb3rs| Rob Morrow| 43| 7
+Pennyworth| Jack Bannon| 60| 8
+Babylon Berlin| Volker Bruch| 45| 8
+Bron/Broen| Sofia Helin| 60| 9
+The Gifted| Stephen Moyer| 43| 7
+Zoo| James Wolk| 42| 7
+The League| Mark Duplass| 22| 8
+In the Dark| Perry Mattfeld| 42| 8
+Eastbound & Down| Danny McBride| 28| 8
+Dickinson| Adrian Enscoe| 30| 7
+Victoria| Jenna Coleman| 60| 8
+Phineas and Ferb| Vincent Martella| 15| 8
+Forbrydelsen| Sofie Gråbøl| 57| 8
+Chesapeake Shores| Barbara Niven| 42| 8
+Counterpart| J.K. Simmons| 60| 8
+Le Bureau des Légendes| Mathieu Kassovitz| 52| 9
+Regular Show| J.G. Quintel| 23| 8
+Bleach: Burîchi| Johnny Yong Bosch| 24| 8
+The Moodys| Denis Leary| 30| 7
+Kôdo giasu - Hangyaku no rurûshu: Code Geass - Lelouch of the Rebellion| Jun Fukuyama| 24| 9
+Steven Universe| Zach Callison| 11| 8
+In Plain Sight| Mary McCormack| 60| 7
+Offspring| Asher Keddie| 60| 8
+CSI: NY| Gary Sinise| 43| 7
+Dirk Gently's Holistic Detective Agency| Samuel Barnett| 60| 8
+Daybreak| Colin Ford| 60| 7
+The Real Housewives of Beverly Hills| Kyle Richards| 44| 5
+Shooter| Ryan Phillippe| 60| 8
+Britannia| Gianni Calchetti| 60| 7
+Vinland Saga| Naoya Uchida| 24| 9
+Scream Queens| Emma Roberts| 45| 7
+Amphibia| Brenda Song| 23| 8
+Top Boy| Ashley Walters| 60| 8
+Timeless| Abigail Spencer| 60| 8
+Absentia| Stana Katic| 60| 7
+Marco Polo| Lorenzo Richelmy| 60| 8
+What I Like About You| Amanda Bynes| 30| 7
+Law & Order: UK| Bradley Walsh| 46| 8
+Hinterland| Richard Harrington| 90| 8
+Versailles| George Blagden| 52| 8
+PEN15| Maya Erskine| 30| 8
+Spooks| Peter Firth| 60| 8
+Easy| Michael Chernus| 30| 7
+I Think You Should Leave with Tim Robinson| Tim Robinson| 16| 8
+Dark Side of the Ring| Chris Jericho| 60| 9
+The Deuce| James Franco| 60| 8
+Reba| Reba McEntire| 30| 7
+Under the Dome| Mike Vogel| 43| 7
+Santa Clarita Diet| Drew Barrymore| 30| 8
+Runaways| Rhenzy Feliz| 60| 7
+Unforgettable| Poppy Montgomery| 60| 7
+Ballers| Dwayne Johnson| 30| 8
+Crazy Ex-Girlfriend| Rachel Bloom| 42| 8
+Fuller House| Candace Cameron Bure| 30| 7
+The Conners| John Goodman| 30| 5
+The Mindy Project| Mindy Kaling| 30| 7
+Jessie| Debby Ryan| 30| 6
+DCI Banks| Stephen Tompkinson| 45| 8
+Wayne| Mark McKenna| 30| 8
+Luke Cage| Mike Colter| 55| 7
+Weeds| Mary-Louise Parker| 28| 8
+Bunk'd| Miranda May| 30| 5
+Glitch| Patrick Brammall| 45| 7
+Grantchester| Robson Green| 45| 8
+Coroner| Serinda Swan| 60| 7
+Top Gear| Jeremy Clarkson| 60| 9
+Vis a vis| Alba Flores| 53| 8
+Formula 1: Drive to Survive| Valtteri Bottas| 40| 9
+The Missing| Tchéky Karyo| 60| 8
+Quantico| Priyanka Chopra Jonas| 42| 7
+Young Justice| Jesse McCartney| 23| 9
+Miranda| Miranda Hart| 30| 8
+Imposters| Inbar Lavi| 41| 8
+H2O: Just Add Water| Cariba Heine| 23| 7
+Scream: The TV Series| Willa Fitzgerald| 45| 7
+McLeod's Daughters| Aaron Jeffery| 45| 7
+Vida| Melissa Barrera| 35| 7
+The Purge| Gabriel Chavarria| 42| 7
+Re:Zero kara hajimeru isekai seikatsu| Yûsuke Kobayashi| 24| 8
+Sistas| Kj Smith| 60| 5
+Creepshow| Kara Kimmer| 44| 7
+Sleepy Hollow| Tom Mison| 45| 7
+Peep Show| David Mitchell| 25| 9
+Jack Irish| Guy Pearce| 52| 8
+Disenchantment| Abbi Jacobson| 30| 7
+12 Monkeys| Aaron Stanford| 42| 8
+Raising Hope| Lucas Neff| 22| 8
+Messiah| Michelle Monaghan| 43| 8
+The Politician| Ben Platt| 42| 8
+Bizaardvark| Olivia Rodrigo| 30| 4
+Den som dræber - Fanget af mørket| Natalie Madueño| 45| 8
+All Rise| Simone Missick| 44| 7
+Future Man| Josh Hutcherson| 30| 8
+Patriot| Michael Dorman| 58| 8
+The Inbetweeners| Simon Bird| 25| 8
+Criminal: UK| Katherine Kelly| 43| 8
+Into the Dark| Aurora Perrineau| 90| 6
+Doctor Doctor| Rodger Corser| 50| 8
+The Outpost| Jessica Green| 44| 6
+Life in Pieces| Colin Hanks| 22| 8
+Nip/Tuck| Dylan Walsh| 44| 8
+Insatiable| Dallas Roberts| 45| 7
+8 Simple Rules... for Dating My Teenage Daughter| Katey Sagal| 30| 7
+Broad City| Ilana Glazer| 22| 8
+Impractical Jokers| Brian Quinn| 30| 9
+Escape to the Chateau| Tracy Ann Oberman| 43| 9
+Private Eyes| Jason Priestley| 356| 7
+Safe| Michael C. Hall| 60| 7
+A Place to Call Home| Marta Dusseldorp| 29| 8
+Dollface| Kat Dennings| 100| 7
+Rocco Schiavone| Marco Giallini| 42| 8
+Hell's Kitchen| Gordon Ramsay| 30| 7
+Homecoming| Stephan James| 24| 8
+Steins;Gate| Mamoru Miyano| 60| 9
+Medium| Patricia Arquette| 50| 7
+Gintama| Tomokazu Sugita| 24| 9
+Utopia| Adeel Akhtar| 45| 8
+Haunted| Vanda Chaloupková| 45| 5
+Project Blue Book| Aidan Gillen| 60| 8
+Kota Factory| Mayur More| 42| 9
+Frontier| Jason Momoa| 44| 7
+Empire| Terrence Howard| 63| 7
+Stumptown| Cobie Smulders| 58| 8
+RuPaul's Drag Race| RuPaul| 22| 8
+Borgen| Sidse Babett Knudsen| 60| 9
+Blue Mountain State| Darin Brooks| 42| 8
+Tin Star| Tim Roth| 43| 7
+Falling Skies| Noah Wyle| 30| 7
+Below Deck Mediterranean| Hannah Ferrier| 45| 7
+The Neighborhood| Cedric the Entertainer| 30| 6
+The Gulf| Kate Elliott| 42| 7
+American Housewife| Katy Mixon| 22| 7
+The Haves and the Have Nots| Tika Sumpter| 42| 6
+Total Drama Island| Christian Potenza| 24| 7
+Humans| Katherine Parkinson| 60| 8
+Monster| Hidenobu Kiuchi| 30| 9
+Swamp Thing| Crystal Reed| 60| 8
+On My Block| Sierra Capri| 24| 8
+Nikita| Maggie Q| 46| 8
+Mob Psycho 100| Setsuo Ito| 60| 9
+Hemlock Grove| Famke Janssen| 45| 7
+The Bachelorette| Chris Harrison| 60| 3
+The Rain| Alba August| 30| 6
+TURN| Jamie Bell| 60| 8
+One Day at a Time| Justina Machado| 60| 8
+Vår tid är nu| Hedda Stiernstedt| 45| 8
+Happy!| Christopher Meloni| 45| 8
+Traces| Jack Tarlton| 60| 7
+Hudson & Rex| John Reardon| 50| 7
+Six| Barry Sloane| 53| 7
+The Gloaming| Emma Booth| 60| 7
+Professor T.| Koen De Bouw| 60| 8
+The Great British Bake Off| Paul Hollywood| 30| 9
+Devious Maids| Ana Ortiz| 42| 8
+Red Oaks| Craig Roberts| 23| 8
+The Librarians| Rebecca Romijn| 60| 7
+Dokutaa Sutoon| Yûsuke Kobayashi| 40| 8
+The Dark Crystal: Age of Resistance| Neil Sterenberg| 22| 8
+The Gift| Beren Saat| 60| 7
+The Boondocks| Regina King| 50| 8
+Deadly Class| Benedict Wong| 60| 8
+The Borgias| Jeremy Irons| 60| 8
+The Twilight Zone| Jordan Peele| 30| 6
+Beauty and the Beast| Kristin Kreuk| 60| 7
+Last Week Tonight with John Oliver| John Oliver| 42| 9
+Covert Affairs| Piper Perabo| 43| 7
+Dark Matter| """Melissa ONeil"""| 21| 8
+The Secret Life of the American Teenager| Shailene Woodley| 60| 5
+A.P. Bio| Glenn Howerton| 24| 7
+The Secret Life of Us| Deborah Mailman| 60| 8
+Fairy Tail: Fearî teiru| Cherami Leigh| 45| 8
+Rake| Richard Roxburgh| 42| 9
+Claws| Niecy Nash| 25| 7
+Royal Pains| Mark Feuerstein| 24| 7
+The A List| Benjamin Nugent| 50| 5
+Catastrophe| Sharon Horgan| 60| 8
+Fresh Meat| Zawe Ashton| 45| 8
+Ófærð| Ólafur Darri Ólafsson| 45| 8
+Morden i Sandhamn| Alexandra Rapaport| 60| 7
+Ghost Adventures| Zak Bagans| 44| 8
+Sorjonen| Ville Virtanen| 50| 8
+Pushing Daisies| Lee Pace| 43| 8
+Badehotellet| Amalie Dollerup| 58| 8
+Salvation| Santiago Cabrera| 31| 7
+The Knick| André Holland| 30| 9
+Mrs. Fletcher| Kathryn Hahn| 42| 7
+F Is for Family| Bill Burr| 50| 8
+V| Elizabeth Mitchell| 60| 7
+The Family Business| LisaRaye McCoy| 52| 6
+Everwood| Treat Williams| 11| 7
+Tell Me a Story| Danielle Campbell| 48| 7
+The Amazing World of Gumball| Dan Russell| 23| 8
+Roman Empire| Aaron Irvin| 59| 7
+Hannah Montana| Miley Cyrus| 30| 5
+Ripper Street| Matthew Macfadyen| 60| 8
+I'm Sorry.| Andrea Savage| 43| 8
+Body of Proof| Dana Delany| 60| 7
+The Bridge| Demián Bichir| 180| 8
+Last Tango in Halifax| Anne Reid| 60| 8
+Critical Role| """Liam OBrien"""| 23| 9
+Gentleman Jack| Suranne Jones| 44| 8
+Girl Meets World| Rowan Blanchard| 45| 7
+Lost Girl| Anna Silk| 60| 8
+Shakespeare & Hathaway: Private Investigators| Mark Benton| 60| 8
+Agatha Raisin| Ashley Jensen| 60| 7
+Switched at Birth| Katie Leclerc| 30| 8
+Innan vi dör| Marie Richardson| 30| 8
+Tacoma FD| Kevin Heffernan| 60| 8
+George Lopez| George Lopez| 24| 7
+Big Love| Bill Paxton| 45| 8
+Food Wars: Shokugeki no Soma| Yoshitsugu Matsuoka| 25| 8
+Truth Be Told| Octavia Spencer| 42| 7
+Big Time Rush| Kendall Schmidt| 60| 6
+Hell on Wheels| Anson Mount| 60| 8
+Miss Fisher's Murder Mysteries| Essie Davis| 45| 8
+Las Vegas| Josh Duhamel| 60| 7
+Departure| Archie Panjabi| 23| 7
+Slasher| Dean McDermott| 43| 7
+PAW Patrol| Ron Pardo| 60| 6
+The 4400| Jacqueline McKenzie| 21| 7
+Accused| Michael Maloney| 30| 8
+Bob Hearts Abishola| Billy Gardell| 90| 7
+Hot in Cleveland| Valerie Bertinelli| 43| 7
+Aurora Teagarden Mysteries| Candace Cameron Bure| 30| 8
+The Following| Kevin Bacon| 11| 7
+You're the Worst| Chris Geere| 30| 8
+Infinity Train| Ashley Johnson| 60| 9
+Sorry for Your Loss| Elizabeth Olsen| 60| 7
+Knightfall| Tom Cullen| 44| 7
+The Unit| Dennis Haysbert| 60| 8
+Rush| Tom Ellis| 22| 8
+Jersey Shore Family Vacation| """Paul Pauly D DelVecchio"""| 43| 7
+Better Things| Pamela Adlon| 60| 8
+El Chapo| Marco de la O| 90| 8
+Crossing Jordan| Jill Hennessy| 30| 7
+Kara Para Ask| Engin Akyürek| 60| 7
+Sam & Cat| Jennette McCurdy| 378| 6
+Greek| Clark Duke| 45| 8
+La Reina del Sur| Kate del Castillo| 22| 8
+The Exorcist| Alfonso Herrera| 60| 8
+Young & Hungry| Emily Osment| 22| 7
+America's Got Talent| Howie Mandel| 30| 6
+Primal| Aaron LaPlante| 30| 9
+Zoey 101| Jamie Lynn Spears| 22| 6
+Teen Titans| Hynden Walch| 30| 8
+Wizards of Waverly Place| Selena Gomez| 40| 7
+Nathan for You| Nathan Fielder| 22| 9
+The Protector| Çagatay Ulusoy| 23| 7
+Baby Daddy| Jean-Luc Bilodeau| 461| 7
+Shigatsu wa kimi no uso| Natsuki Hanae| 42| 9
+Giri/Haji| Takehiro Hira| 90| 8
+Masterchef| Gordon Ramsay| 30| 7
+Wallander| Kenneth Branagh| 44| 8
+The Suite Life of Zack & Cody| Cole Sprouse| 60| 7
+Burden of Truth| Kristin Kreuk| 48| 7
+Ice| Cam Gigandet| 55| 7
+Spinning Out| Kaya Scodelario| 60| 8
+The Musketeers| Luke Pasqualino| 30| 8
+Sseulsseulhago Chalranhashin: Dokkaebi| Gong Yoo| 50| 9
+Cuckoo| Greg Davies| 22| 7
+Torchwood| John Barrowman| 43| 8
+Grown-ish| Yara Shahidi| 23| 6
+Ansatsu kyôshitsu| Jun Fukuyama| 60| 8
+The Thundermans| Kira Kosarin| 60| 6
+Tidelands| Charlotte Best| 30| 7
+Rescue Me| Denis Leary| 60| 8
+A Black Lady Sketch Show| Robin Thede| 20| 7
+Get Shorty| """Chris ODowd"""| 22| 8
+Flames| Ritvik Sahore| 21| 9
+Rules of Engagement| Patrick Warburton| 42| 7
+This Country| Daisy May Cooper| 75| 9
+The Carrie Diaries| AnnaSophia Robb| 60| 7
+Vivir sin permiso| Jose Coronado| 42| 8
+Tae-yang-eui hoo-ye| Song Joong-ki| 140| 8
+Perception| Eric McCormack| 24| 8
+Siyah Beyaz Ask| Ibrahim Celikkol| 24| 8
+Electric Dreams| Steve Buscemi| 60| 7
+That Time I Got Reincarnated as a Slime| Miho Okasaki| 25| 8
+Kaguya-sama wa kokurasetai ~ Tensai tachi no ren'ai zunô sen ~| Aoi Koga| 24| 8
+Kiralik Ask| Elçin Sangu| 120| 7
+Krypton| Cameron Cuffe| 45| 7
+Terminator: The Sarah Connor Chronicles| Lena Headey| 60| 8
+Robot Chicken| Seth Green| 11| 8
+Paradise PD| Sarah Chalke| 28| 7
+The Dragon Prince| Paula Burrows| 26| 8
+Family Reunion| Talia Jackson| 28| 7
+Secret City| Anna Torv| 49| 7
+Muhtesem Yüzyil| Gökhan Atalay| 90| 7
+Candice Renoir| Cécile Bois| 52| 7
+World on Fire| Jonah Hauer-King| 57| 7
+Jericho| Skeet Ulrich| 45| 8
+Our Girl| Michelle Keegan| 60| 8
+Portlandia| Fred Armisen| 22| 8
+Klovn| Frank Hvam| 25| 8
+Ben 10| Tara Strong| 22| 7
+Ramy| Ramy Youssef| 30| 8
+Lilyhammer| Steven Van Zandt| 45| 8
+For Life| Nicholas Pinnock| 43| 8
+Ancient Aliens| Robert Clotworthy| 42| 7
+Invincible| Patrick Cavanaugh| 9| 9
+Señora Acero| Aurora Gil| 22| 7
+Peppa Pig| John Sparkes| 25| 6
+Raven's Home| Raven-Symoné| 51| 7
+Samurai Jack| Phil LaMarr| 60| 9
+Gypsy| Naomi Watts| 43| 7
+Tales of the City| Laura Linney| 30| 7
+SGU Stargate Universe| Robert Carlyle| 22| 8
+Secret Diary of a Call Girl| Billie Piper| 89| 7
+Good Luck Charlie| Bridgit Mendler| 30| 7
+Inspector George Gently| Martin Shaw| 52| 8
+Norsemen| Kåre Conradi| 45| 8
+Zone Blanche| Suliane Brahim| 24| 8
+Scott & Bailey| Suranne Jones| 44| 8
+Dragon Ball Super: Doragon bôru cho| Masako Nozawa| 23| 8
+Treadstone| Jeremy Irvine| 55| 7
+To the Lake| Kirill Käro| 24| 7
+Undone| Rosa Salazar| 53| 8
+Deadliest Catch| Mike Rowe| 30| 8
+Lovesick| Johnny Flynn| 26| 8
+Waterloo Road| Philip Martin Brown| 22| 7
+Bless the Harts| Kristen Wiig| 30| 5
+One Mississippi| Tig Notaro| 30| 7
+Everybody Hates Chris| Terry Crews| 60| 7
+Melissa & Joey| Melissa Joan Hart| 23| 7
+Transparent| Jeffrey Tambor| 29| 8
+Fortitude| Richard Dormer| 25| 7
+Trollhunters| Charlie Saxton| 22| 9
+The Tick| Peter Serafinowicz| 60| 7
+Alexa & Katie| Paris Berelc| 60| 8
+Kiseijû: Sei no kakuritsu| Adam Gibbs| 24| 8
+NOS4A2| Ashleigh Cummings| 44| 7
+Hightown| Riley Voelkel| 80| 7
+Damages| Glenn Close| 10| 8
+DARLING in the FRANXX| Yûto Uemura| 22| 7
+Wu Assassins| Iko Uwais| 30| 6
+Miseuteo Shunshain| Lee Byung-hun| 30| 9
+Teen Titans Go!| Scott Menville| 30| 5
+The Loud House| Grey Griffin| 24| 7
+No Activity| Patrick Brammall| 60| 7
+Cocomelon| Hannah An| 60| 5
+Party Down| Adam Scott| 45| 8
+Still Game| Ford Kiernan| 30| 9
+Akame ga Kill!| Sôma Saitô| 107| 8
+Girlfriends' Guide to Divorce| Lisa Edelstein| 52| 7
+L'amica geniale| Alba Rohrwacher| 45| 9
+The Mallorca Files| Elen Rhys| 42| 7
+The Comeback| Lisa Kudrow| 50| 8
+Bonding| Zoe Levin| 90| 7
+Engrenages| Caroline Proust| 42| 9
+Beforeigners| Nicolai Cleve Broch| 22| 8
+The Night Shift| Eoin Macken| 43| 7
+Baby| Benedetta Porcaroli| 43| 7
+The Inspector Lynley Mysteries| Nathaniel Parker| 59| 7
+Naked and Afraid XL| Michael Brown| 50| 7
+Drunk History| Derek Waters| 50| 8
+Forever| Ioan Gruffudd| 60| 8
+Inhumans| Anson Mount| 50| 5
+Da Vinci's Demons| Tom Riley| 60| 8
+Suburra - La serie| Alessandro Borghi| 60| 8
+Criminal Justice| Vikrant Massey| 42| 8
+Salem| Janet Montgomery| 24| 7
+Chen qing ling| Zhan Xiao| 42| 9
+The Hills: New Beginnings| Brody Jenner| 60| 6
+Metástasis| Constanza Hernández| 42| 2
+Frankie Drake Mysteries| Lauren Lee Smith| 21| 7
+Saints & Sinners| Vanessa Bell Calloway| 30| 8
+Kuroko no basuke| Kenshô Ono| 48| 8
+Southland| Michael Cudlitz| 43| 8
+Blood & Treasure| Matt Barr| 30| 7
+Cardinal| Billy Campbell| 30| 8
+The Odd Couple| Matthew Perry| 30| 6
+Crashing| Phoebe Waller-Bridge| 45| 8
+The Circle| Michelle Buteau| 60| 7
+Revolution| Billy Burke| 24| 7
+Looking| Jonathan Groff| 30| 8
+According to Jim| Jim Belushi| 30| 6
+Mike & Molly| Billy Gardell| 60| 6
+Deep State| Joe Dempsie| 24| 7
+McMafia| James Norton| 47| 8
+Kakegurui| Saori Hayami| 60| 7
+High Maintenance| Ben Sinclair| 50| 8
+Detectorists| Mackenzie Crook| 45| 9
+Gran Hotel| Adriana Ozores| 45| 8
+Hagane no renkinjutsushi| Vic Mignogna| 68| 9
+Bad Blood| Kim Coates| 60| 8
+Haven| Emily Rose| 29| 8
+Las chicas del cable| Blanca Suárez| 49| 8
+Continuum| Rachel Nichols| 28| 8
+Love Child| Jessica Marais| 29| 8
+Ask Laftan Anlamaz| Hande Erçel| 44| 8
+The Masked Singer| Jenny McCarthy| 55| 6
+Mozart in the Jungle| Gael García Bernal| 60| 8
+3%| Bianca Comparato| 30| 7
+Flight of the Conchords| Jemaine Clement| 45| 9
+Gavin & Stacey| Mathew Horne| 80| 8
+Cloak & Dagger| Olivia Holt| 30| 7
+Carnivàle| Michael J. Anderson| 50| 8
+The Tunnel| Stephen Dillane| 60| 8
+Sex Life| Rev Rucifer| 42| 6
+Mako Mermaids| Chai Hansen| 30| 7
+Breathe| Madhavan| 44| 8
+Aseudal Yeondaegi| Song Joong-ki| 44| 8
+El juego de las llaves| Maite Perroni| 50| 7
+Delhi Crime| Shefali Shah| 26| 9
+The Syndicate| Lorraine Bruce| 24| 8
+Rookie Blue| Missy Peregrym| 44| 8
+Toast of London| Matt Berry| 22| 8
+The Real Housewives of New York City| Ramona Singer| 30| 5
+Dollhouse| Eliza Dushku| 22| 8
+Alta mar| Ivana Baquero| 30| 7
+Tuca & Bertie| Tiffany Haddish| 180| 7
+Seishun Buta Yaro wa Bunny Girl-senpai no Yume wo Minai| Kaito Ishikawa| 29| 8
+Legend of the Seeker| Craig Horner| 60| 8
+My Little Pony: Friendship Is Magic| Ashleigh Ball| 60| 8
+Corner Gas| Brent Butt| 22| 8
+Liv and Maddie| Dove Cameron| 30| 6
+The Mick| Kaitlin Olson| 90| 8
+Whitechapel| Rupert Penry-Jones| 30| 8
+Please Like Me| Josh Thomas| 23| 9
+Hustle| Robert Glenister| 22| 8
+Troy: Fall of a City| Louis Hunter| 30| 4
+The Unicorn| Walton Goggins| 60| 7
+Kidding| Jim Carrey| 30| 8
+Kara Sevda| Burak Özçivit| 60| 7
+Vice Principals| Danny McBride| 60| 8
+Fire Force| Gakuto Kajiwara| 50| 8
+Suburgatory| Jeremy Sisto| 24| 7
+Toy Boy| Jesús Mosquera| 42| 6
+Man Down| Greg Davies| 22| 8
+The Split| Nicola Walker| 48| 8
+Hung| Thomas Jane| 43| 7
+Bimilui Soop| Cho Seung-woo| 53| 9
+Ackley Bridge| Sunetra Sarker| 60| 7
+Raising Dion| Alisha Wainwright| 60| 7
+Bungou Stray Dogs| Mamoru Miyano| 41| 8
+UnREAL| Shiri Appleby| 30| 8
+Awkward.| Ashley Rickards| 60| 8
+Zenra kantoku| Takayuki Yamada| 60| 8
+Brassic| Joe Gilgun| 30| 8
+Lark Rise to Candleford| Olivia Hallinan| 22| 8
+Underbelly| Caroline Craig| 51| 8
+The Cafe| Ellie Haddington| 43| 8
+Wanted| Rebecca Gibney| 60| 8
+Taken| Clive Standen| 30| 7
+Single Parents| Taran Killam| 60| 7
+Das Boot| Tom Wlaschiha| 42| 7
+The Glades| Matt Passmore| 60| 8
+He-Man and the Masters of the Universe| Cam Clarke| 22| 7
+Big City Greens| Chris Houghton| 125| 7
+Reprisal| Abigail Spencer| 60| 8
+Velvet| Paula Echevarría| 22| 8
+Four Weddings and a Funeral| Nathalie Emmanuel| 60| 7
+Friends from College| Keegan-Michael Key| 50| 7
+Greenleaf| Merle Dandridge| 49| 7
+Anthony Bourdain: Parts Unknown| Anthony Bourdain| 60| 9
+The Oval| Brad Benedict| 55| 4
+Star vs. the Forces of Evil| Eden Sher| 120| 8
+The Last Drive-In with Joe Bob Briggs| John Bloom| 43| 10
+RuPaul's Drag Race All Stars| RuPaul| 45| 9
+The New Adventures of Old Christine| Julia Louis-Dreyfus| 140| 7
+Jamestown| Naomi Battrick| 60| 7
+The Valhalla Murders| Aldís Amah Hamilton| 60| 7
+Wu-Tang: An American Saga| Ashton Sanders| 50| 8
+Hidden| Sian Reese-Williams| 44| 7
+The Little Drummer Girl| Simona Brown| 45| 7
+Rose and Maloney| Sarah Lancashire| 11| 7
+Constantine| Matt Ryan| 28| 8
+Moving On| Neil Bell| 30| 8
+Söz| Tolga Saritas| 60| 7
+Siesta Key| Garrett Miller| 21| 5
+Baegabondeu| Lee Seung-gi| 60| 8
+Step Up: High Water| Marcus Emanuel Mitchell| 22| 7
+Top Chef| Tom Colicchio| 25| 8
+Karppi| Pihla Viitala| 60| 7
+DC Super Hero Girls| Tara Strong| 46| 7
+House of Lies| Don Cheadle| 44| 7
+Brockmire| Hank Azaria| 23| 8
+Snatch| Rupert Grint| 43| 7
+The Game| Hosea Chanchez| 22| 7
+La casa de las flores| Cecilia Suárez| 60| 8
+The Venture Bros.| Christopher McCulloch| 42| 9
+Plebs| Tom Rosenthal| 44| 8
+Love on the Spectrum| | 60| 9
+Dirt| Courteney Cox| 42| 7
+Terra Nova| """Jason OMara"""| 60| 7
+Smash| Debra Messing| 42| 8
+Justice League Unlimited| George Newbern| 60| 9
+Defiance| Grant Bowler| 22| 7
+Banana Fish| Jun Fukuyama| 30| 8
+The Guardian| Simon Baker| 90| 7
+Aquarius| David Duchovny| 42| 7
+The Son| Pierce Brosnan| 23| 8
+Berlin Station| Leland Orser| 60| 8
+Rosewood| Morris Chestnut| 24| 7
+Rectify| Aden Young| 60| 8
+Flashforward| Courtney B. Vance| 29| 8
+Kimbiseoga wae geureolkka| Park Min-Young| 22| 8
+Chappelle's Show| Dave Chappelle| 30| 9
+Limetown| Jessica Biel| 30| 7
+Ezel| Kenan Imirzalioglu| 30| 9
+Killjoys| Hannah John-Kamen| 60| 7
+Beastars| Chikahiro Kobayashi| 60| 8
+Army Wives| Brian McNamara| 41| 7
+Tate no Yuusha no Nariagari| Kaito Ishikawa| 52| 8
+Naked Attraction| Anna Richardson| 43| 5
+Sweetbitter| Ella Purnell| 24| 7
+Louie| Louis C.K.| 26| 9
+Trinkets| Brianna Hildebrand| 44| 7
+Dear White People| Antoinette Robertson| 60| 6
+El vecino| Quim Gutiérrez| 60| 7
+Içerde| Çagatay Ulusoy| 24| 8
+Tell Me You Love Me| Michelle Borth| 90| 7
+Flashpoint| Hugh Dillon| 30| 8
+The Catch| Mireille Enos| 42| 7
+Bishôjo senshi Sêrâ Mûn Crystal| Patricia Acevedo| 80| 8
+Living with Yourself| Paul Rudd| 24| 7
+Bunheads| Sutton Foster| 24| 8
+Hwarang| Seo Jun Park| 24| 8
+Broken| Sean Bean| 24| 8
+Isekai Mao to Shokan Shojo no Dorei Majutsu| Masaaki Mizunaka| 24| 7
+Van der Valk| Marc Warren| 24| 7
+Key and Peele| Keegan-Michael Key| 24| 8
+Mary Kills People| Caroline Dhavernas| 24| 8
+Dance Moms| Abby Lee Miller| 24| 5
+Leyla ile Mecnun| Ali Atay| 24| 9
+Kickin' It| Leo Howard| 22| 7
+Liar| Joanne Froggatt| 45| 7
+V-Wars| Ian Somerhalder| 60| 6
+Manhunt| Martin Clunes| 45| 7
+The Food That Built America| Adam Richman| 45| 9
+Make It or Break It| Ayla Kell| 60| 8
+Doctor Foster| Suranne Jones| 30| 8
+Jean-Claude Van Johnson| Kat Foster| 27| 8
+Nurse Jackie| Edie Falco| 24| 8
+Samurai chanpurû| Kazuya Nakai| 43| 9
+Mistresses| Alyssa Milano| 22| 7
+Mixed-ish| Tika Sumpter| 60| 6
+Primeval| Andrew Lee Potts| 24| 7
+Gakuen mokushiroku: HIGHSCHOOL OF THE DEAD| """Junichi Suwabe"""| 24| 7
+Shinmai Maou no Testament| Brian Beacock| 22| 7
+Justice League| Carl Lumbly| 41| 9
+Are You the One?| Ryan Devlin| 22| 7
+Sydney to the Max| Ruth Righi| 30| 6
+The Next Step| Victoria Baldesarra| 43| 6
+Dracula| Jonathan Rhys Meyers| 42| 7
+The Mist| Morgan Spector| 60| 5
+Love Island| Iain Stirling| 60| 5
+Ink Master| Dave Navarro| 60| 7
+The Widow| Kate Beckinsale| 42| 7
+The Client List| Jennifer Love Hewitt| 470| 7
+Bancroft| Sarah Parish| 60| 7
+Vinyl| Bobby Cannavale| 22| 8
+Anger Management| Charlie Sheen| 24| 7
+Teenage Mutant Ninja Turtles| Sean Astin| 12| 8
+Helluva Boss| Brandon Rogers| 50| 8
+Marianne| Victoire Du Bois| 42| 8
+Dare Me| Willa Fitzgerald| 46| 7
+Frayed| Frazer Hadfield| 42| 8
+Pan Am| Christina Ricci| 22| 7
+Ned's Declassified School Survival Guide| Devon Werkheiser| 30| 7
+Extras| Ricky Gervais| 60| 8
+Queen Sugar| Rutina Wesley| 41| 8
+Bar Rescue| Jon Taffer| 43| 8
+Crossing Lines| Tom Wlaschiha| 23| 7
+Scooby-Doo! Mystery Incorporated| Frank Welker| 25| 8
+Psycho-Pass| Kana Hanazawa| 28| 8
+You Me Her| Greg Poehler| 60| 7
+Dead Like Me| Ellen Muth| 60| 8
+Dublin Murders| Sarah Greene| 24| 7
+Go-Toubun no Hanayome| Yoshitsugu Matsuoka| 60| 8
+Pablo Escobar: El Patrón del Mal| Cecilia Navia| 60| 9
+Hap and Leonard| James Purefoy| 45| 8
+Baki| Tôru Furuya| 44| 7
+Studio 60 on the Sunset Strip| Matthew Perry| 24| 8
+Fate/Zero| Ayako Kawasumi| 30| 8
+Shake It Up| Bella Thorne| 42| 5
+Pandora| Priscilla Quintana| 43| 4
+Naked and Afraid| Michael Brown| 60| 7
+My Life Is Murder| Ebony Vagulans| 45| 8
+The Coroner| Claire Goose| 132| 7
+Are You Afraid of the Dark?| Bryce Gheisar| 25| 7
+This Way Up| Aisling Bea| 12| 8
+Nande Koko ni Sensei ga!?| Ryouta Suzuki| 60| 6
+Gordon Ramsay: Uncharted| Gordon Ramsay| 22| 8
+Web Therapy| Lisa Kudrow| 22| 7
+Scooby-Doo and Guess Who?| Frank Welker| 43| 7
+Monarca| Irene Azuela| 46| 8
+Mayday| Jonathan Aris| 23| 9
+Chewing Gum| Michaela Coel| 80| 8
+Hotel Del Luna| Lee Ji-eun| 22| 8
+Don't Trust the B---- in Apartment 23| Krysten Ritter| 24| 7
+Tokyo Ghoul: re| Natsuki Hanae| 44| 7
+Channel Zero| Brandon Scott| 42| 7
+Eagles| Alva Bratt| 30| 8
+The Royals| Joan Collins| 24| 8
+Mr. Iglesias| Gabriel Iglesias| 133| 7
+Beruseruku| Erik Scott Kimerer| 22| 7
+Star Wars: Clone Wars| Mat Lucas| 42| 8
+Ben 10: Ultimate Alien| Yuri Lowenthal| 60| 8
+Extant| Halle Berry| 42| 7
+The Romanoffs| Diane Lane| 23| 7
+Limitless| Jake McDorman| 45| 8
+Documentary Now!| Helen Mirren| 42| 8
+Camelot| Joseph Fiennes| 60| 7
+Graceland| Daniel Sunjata| 120| 8
+Outsiders| David Morse| 42| 8
+Eskiya Dünyaya Hükümdar Olmaz| Oktay Kaynarca| 10| 7
+Code Black| Marcia Gay Harden| 24| 8
+Mortal Kombat| Casper Van Dien| 60| 7
+Kono subarashii sekai ni shukufuku o!| Jun Fukushima| 45| 8
+Life on Mars| John Simm| 24| 8
+Life| Damian Lewis| 30| 8
+Saiki Kusuo no Psi Nan| Hiroshi Kamiya| 30| 8
+House of Payne| LaVan Davis| 60| 4
+Crashing| Pete Holmes| 90| 8
+Birds of Prey| Ashley Scott| 60| 6
+Eung-dab-ha-ra 1988| Hyeri Lee| 60| 9
+Drop Dead Diva| Brooke Elliott| 45| 7
+Celebrity Family Feud| Steve Harvey| 30| 6
+Atlantis| Mark Addy| 45| 7
+The Other Two| Heléne Yorke| 60| 8
+Meteor Garden| Dylan Wang| 43| 8
+American Pickers| Mike Wolfe| 120| 7
+Lincoln Rhyme: Hunt for the Bone Collector| Russell Hornsby| 60| 7
+Erkenci Kus| Demet Özdemir| 60| 7
+The Curse of Oak Island| Robert Clotworthy| 52| 7
+Instinct| Alan Cumming| 52| 7
+La trêve| Yoann Blanc| 60| 8
+Balthazar| Tomer Sisley| 11| 8
+The Path| Aaron Paul| 30| 7
+Start Up| Paul Galazo| 60| 8
+People of Earth| Wyatt Cenac| 44| 8
+Being Human| Lenora Crichlow| 60| 8
+Sanctuary| Amanda Tapping| 42| 7
+Witches of East End| Julia Ormond| 29| 8
+America's Next Top Model| Adrianne Curry| 25| 6
+The Thick of It| Chris Addison| 30| 9
+Greenhouse Academy| Ariel Mortman| 60| 7
+Flaked| Will Arnett| 30| 7
+Traitors| Emma Appleton| 30| 7
+United States of Tara| Toni Collette| 24| 8
+Kevin Can Wait| Kevin James| 25| 6
+Puppy Dog Pals| Harland Williams| 22| 7
+Casual| Michaela Watkins| 60| 8
+Ben 10: Omniverse| Yuri Lowenthal| 22| 6
+Blood| Adrian Dunbar| 40| 7
+Ben 10: Alien Force| Yuri Lowenthal| 45| 7
+Rita| Mille Dinesen| 30| 8
+El dragón| Sebastián Rulli| 26| 7
+That's So Raven| Raven-Symoné| 40| 7
+The Edge of Sleep| Alex Essoe| 43| 9
+Free Rein| Freddy Carter| 30| 7
+Gandii Baat| Kunwar Vikram Soni| 22| 3
+Saving Hope| Erica Durance| 30| 8
+Austin & Ally| Ross Lynch| 30| 6
+Sofia the First| Ariel Winter| 43| 7
+Wellington Paranormal| Mike Minogue| 60| 8
+Kim Possible| Christy Carlson Romano| 27| 7
+The Blacklist: Redemption| Famke Janssen| 60| 7
+Packed to the Rafters| Rebecca Gibney| 10| 7
+Just Add Magic| Olivia Sanabia| 60| 8
+Quarry| Logan Marshall-Green| 30| 8
+Super Dragon Ball Heroes| Ryô Horikawa| 60| 7
+Emerald City| Adria Arjona| 60| 7
+Lizzie McGuire| Hilary Duff| 27| 7
+Chance| Hugh Laurie| 42| 8
+Hand of God| Garret Dillahunt| 83| 8
+Iru Dhuruvam| Ravi Jiva| 60| 8
+Banshee Origins| Frankie Faison| 42| 9
+No Offence| Joanna Scanlan| 30| 8
+Married at First Sight| Pepper Schwartz| 43| 6
+Making a Murderer| Steven Avery| 57| 9
+Star| Jude Demorest| 30| 7
+We Bare Bears| Eric Edelstein| 30| 8
+Grand Hotel| Demián Bichir| 30| 7
+Mystery Road| Aaron Pedersen| 30| 8
+Everything Sucks!| """Jahi DiAllo Winston"""| 50| 8
+Star Wars: Resistance| Christopher Sean| 42| 5
+How to Sell Drugs Online (Fast)| Maximilian Mundt| 25| 8
+Mickey Mouse Clubhouse| Tony Anselmo| 34| 6
+Made in Heaven| Arjun Mathur| 30| 8
+Pearson| Gina Torres| 48| 7
+Domestic na Kanojo| Maaya Uchida| 30| 7
+American Vandal| Tyler Alvarez| 18| 8
+Baskets| Zach Galifianakis| 67| 8
+The Frankenstein Chronicles| Sean Bean| 44| 7
+Dororo| Rio Suzuki| 59| 8
+Nude Interviews| Dannii| 69| 7
+Him-ssen yeo-ja Do Bong-soon| Park Bo-Young| 60| 8
+Bitten| Laura Vandervoort| 15| 7
+Treme| Khandi Alexander| 42| 8
+Wire in the Blood| Robson Green| 50| 8
+The Ultimate Fighter| Dana White| 3| 8
+The Walking Dead: Red Machete| Anais Lilit| 60| 7
+Once Upon a Time in Wonderland| Sophie Lowe| 30| 7
+800 Words| Erik Thomson| 30| 8
+Inside Look: The Assassination of Gianni Versace - American Crime Story| Darren Criss| 60| 8
+Catfish: The TV Show| Nev Schulman| 60| 7
+Bless This Mess| Dax Shepard| 542| 7
+Still Standing| Mark Addy| 22| 8
+Baptiste| Tchéky Karyo| 30| 7
+I'm Dying Up Here| Melissa Leo| 24| 8
+Dogs of Berlin| Felix Kramer| 30| 8
+Dragons: Race to the Edge| Jay Baruchel| 45| 8
+LazyTown| Lorraine Parsloe| 40| 6
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka| Bryson Baugus| 75| 7
+Overlord| Satoshi Hino| 24| 8
+The Secret Circle| Britt Robertson| 30| 7
+Jersey Shore| """Paul Pauly D DelVecchio"""| 30| 4
+Bap Jal Sajuneun Yeppeun Nuna| Son Ye-jin| 352| 8
+Noragami| Hiroshi Kamiya| 21| 8
+Sliced| Samson Kayo| 60| 6
+The Suite Life on Deck| Dylan Sprouse| 21| 6
+The Trial of Christine Keeler| Sophie Cookson| 60| 7
+The Grinder| Rob Lowe| 30| 7
+Robin Hood| Jonas Armstrong| 30| 7
+Ki Hwanghoo| Ha Ji-Won| 45| 9
+Faking It| Rita Volk| 60| 7
+The K2| Ji Chang-Wook| 30| 8
+Would I Lie to You?| David Mitchell| 30| 8
+Now Apocalypse| Avan Jogia| 44| 6
+Parfum| Friederike Becht| 43| 7
+Invasion| William Fichtner| 30| 8
+The Hills| Audrina Patridge| 5| 4
+Ninjago: Masters of Spinjitzu| Michael Adamthwaite| 60| 7
+Hoarders| Robin Zasio| 629| 6
+Emergence| Allison Tolman| 30| 7
+K.C. Undercover| Zendaya| 30| 6
+Inside Look: The People v. O.J. Simpson - American Crime Story| Sarah Paulson| 43| 8
+MasterChef Australia| Gary Mehigan| 30| 8
+Soupçons| Michael Peterson| 60| 8
+Timewasters| Daniel Lawrence Taylor| 22| 7
+Goblin Slayer| Yuichiro Umehara| 57| 8
+The Tomorrow People| Robbie Amell| 30| 7
+White Gold| Ed Westwick| 85| 7
+El Señor de los Cielos| Rafael Amaya| 30| 7
+Home Town| Ben Napier| 25| 8
+Grounded for Life| Donal Logue| 30| 7
+The Doctor Blake Mysteries| Nadine Garner| 22| 8
+People Just Do Nothing| Allan Mustafa| 52| 9
+90 Day Fiancé| Natalie Podiakova| 23| 6
+No Good Nick| Siena Agudong| 60| 6
+Black Lagoon| Megumi Toyoguchi| 51| 8
+SMILF| Frankie Shaw| 30| 7
+The Cleveland Show| Mike Henry| 30| 6
+Borgia| Mark Ryder| 11| 8
+Derek| Ricky Gervais| 30| 8
+Nightflyers| Eoin Macken| 22| 6
+Lodge 49| Wyatt Russell| 27| 8
+Swedish Dicks| Peter Stormare| 45| 7
+Not Going Out| Lee Mack| 45| 8
+NTSF:SD:SUV| Paul Scheer| 23| 7
+Dangshini Jamdeun Saie| Bae Suzy| 24| 8
+Lab Rats| William Brent| 50| 7
+Odd Squad| Millie Davis| 54| 7
+Pretty Little Liars: The Perfectionists| Sasha Pieterse| 60| 7
+Northern Rescue| William Baldwin| 60| 7
+Ultimate Spider-Man| Drake Bell| 25| 7
+Elena of Avalor| Aimee Carrero| 30| 6
+Magic City| Jeffrey Dean Morgan| 45| 8
+The Code| Dan Spielman| 60| 7
+Dalui Yeonin - Bobogyungsim Ryeo| Lee Joon-Gi| 312| 9
+Wisting| Sven Nordin| 45| 7
+Andi Mack| Peyton Elizabeth Lee| 30| 7
+Room 104| Jennifer Lafleur| 85| 6
+Inside Edge| Richa Chadha| 30| 8
+Damnation| Logan Marshall-Green| 45| 8
+Capitani| Luc Schiltz| 60| 7
+Origin| Natalia Tena| 24| 7
+Craig of the Creek| Philip Solomon| 24| 7
+90 Day Fiancé: Happily Ever After?| Paola Mayfield| 24| 6
+Angie Tribeca| Rashida Jones| 24| 7
+Why Are You Like This?| Naomi Higgins| 24| 7
+Sin Senos No Hay Paraíso| Carmen Villalobos| 24| 7
+The Passage| Mark-Paul Gosselaar| 24| 7
+Forged in Fire| Wil Willis| 42| 8
+Falsa Identidad| Luis Ernesto Franco| 32| 7
+I Love Dick| Kevin Bacon| 60| 6
+Wildfire| Genevieve Padalecki| 60| 8
+I Am the Night| Chris Pine| 30| 7
+Life on Top| Heather Vandeven| 60| 7
+Knight Rider| Justin Bruening| 30| 6
+Wet Hot American Summer: First Day of Camp| Marguerite Moreau| 25| 7
+First Wives Club| Jill Scott| 45| 7
+Kiru ra kiru: KILL la KILL| Ami Koshimizu| 60| 8
+Queer Eye| Bobby Berk| 60| 9
+Vexed| Toby Stephens| 70| 7
+Trust| Harris Dickinson| 47| 8
+Naui Ajusshi| Sun-kyun Lee| 60| 9
+My Mad Fat Diary| Ciara Baxendale| 52| 8
+Masters of Horror| Karen Elizabeth Austin| 42| 8
+Profilage| Jean-Michel Martial| 23| 8
+To Tell the Truth| Anthony Anderson| 120| 6
+Gabby Duran & The Unsittables| Kylie Cantrall| 42| 6
+Co-Ed Confidential| Kevin Patrick| 181| 7
+Kuzgun| Baris Arduç| 23| 8
+Temptation Island| Mark L. Walberg| 42| 6
+Cheat| Katherine Kelly| 25| 7
+Spirit Riding Free| Amber Frank| 24| 7
+Cedar Cove| Andie MacDowell| 42| 7
+The Bureau of Magical Things| Kimie Tsukakoshi| 21| 7
+Yahari ore no seishun rabukome wa machigatteiru.| Takuya Eguchi| 60| 8
+Dallas| Josh Henderson| 25| 7
+Tangled: The Series| Mandy Moore| 30| 8
+Kitchen Nightmares| Gordon Ramsay| 80| 8
+The Boss Baby: Back in Business| JP Karliak| 45| 7
+Stuck in the Middle| Jenna Ortega| 60| 6
+Sigeuneol| Lee Jehoon| 30| 9
+The First| Sean Penn| 23| 7
+Kyle XY| Matt Dallas| 60| 7
+Chemistry| Jonathan Chase| 44| 6
+The Inbetweeners| Bubba Lewis| 30| 3
+Pitch| Kylie Bunbury| 23| 7
+Intelligence| Ian Tracey| 43| 8
+Blackout| T.C. Carter| 26| 8
+QI| Alan Davies| 43| 9
+Avengers Assemble| Roger Craig Smith| 48| 7
+Real Detective| Michael Douglas Cake| 4| 8
+Mrs. Brown's Boys| """Brendan OCarroll"""| 60| 7
+Criminal Minds: Beyond Borders| Gary Sinise| 40| 6
+Rosemary & Thyme| Felicity Kendal| 30| 8
+Vikings: Athelstan's Journal| George Blagden| 45| 8
+Pooreun Badaui Junsul| Jun Ji-Hyun| 30| 8
+Comrade Detective| Channing Tatum| 45| 7
+Driven| Olivia Grace Applegate| 60| 7
+Mr Selfridge| Ron Cook| 24| 8
+Speechless| Minnie Driver| 23| 8
+Soy Luna| Karol Sevilla| 24| 7
+Tyrant| Adam Rayner| 50| 8
+Toradora!| Rie Kugimiya| 60| 8
+Mystery 101| Jill Wagner| 24| 8
+Voltron: Legendary Defender| Jeremy Shada| 120| 8
+Hilda| Bella Ramsey| 60| 9
+Teachers| Ursula Holden Gill| 47| 8
+London Kills| Hugo Speer| 60| 7
+Kangoku gakuen| Hiroshi Kamiya| 35| 8
+Hercai| Akin Akinözü| 30| 7
+Senke nad Balkanom| Andrija Kuzmanovic| 30| 9
+SAS: Who Dares Wins| Ant Middleton| 11| 9
+Jett| Carla Gugino| 30| 7
+4 Blocks| Kida Khodr Ramadan| 30| 8
+Pure| Charly Clive| 45| 7
+The Batman| Rino Romano| 65| 7
+Ridiculousness| Rob Dyrdek| 24| 6
+The Eric Andre Show| Eric André| 22| 9
+The Lion Guard| Max Charles| 60| 6
+Divorce| Sarah Jessica Parker| 60| 7
+Reaper| Bret Harrison| 60| 8
+Kurtlar Vadisi| Necati Sasmaz| 90| 8
+Kuroshitsuji| Michael C. Pizzuto| 28| 8
+Go On| Matthew Perry| 45| 8
+Lucky Man| James Nesbitt| 30| 7
+Strange Angel| Jack Reynor| 59| 7
+Ashes to Ashes| Philip Glenister| 60| 8
+Dominion| Christopher Egan| 30| 7
+Horrible Histories| Jim Howick| 47| 9
+Maria Wern| Eva Röse| 12| 7
+Degrassi: Next Class| """Nakuset Gould"""| 150| 7
+Hunted| Melissa George| 60| 7
+Byeol-e-seo on geu-dae| Jun Ji-Hyun| 70| 8
+Jugar con Fuego| Jason Day| 276| 6
+The Guest Book| Carly Jibson| 43| 7
+Leah Remini: Scientology and the Aftermath| Leah Remini| 2| 9
+Ben 10| Tara Strong| 60| 3
+Sefirin Kizi| Engin Akyürek| 60| 6
+The First 48| Dion Graham| 30| 8
+Kkotboda namja| Ku Hye-Sun| 23| 8
+The Forsyte Saga| Damian Lewis| 24| 8
+No Tomorrow| Joshua Sasse| 42| 7
+Love Advent| Kendall Jenner| 27| 4
+La reina del flow| Carolina Ramírez| 27| 8
+Wanderlust| Toni Collette| 44| 7
+Sick Note| Rupert Grint| 22| 7
+Monster Musume no Iru Nichijou| Junji Majima| 60| 7
+Fate/stay night: Unlimited Blade Works| Mela Lee| 60| 8
+Conan| """Conan OBrien"""| 45| 8
+Utopia| Rob Sitch| 60| 8
+Z: The Beginning of Everything| Christina Ricci| 45| 7
+Being Human| Sam Witwer| 24| 8
+Great News| Briga Heelan| 22| 7
+Shades of Blue| Jennifer Lopez| 44| 7
+The Bachelor| Chris Harrison| 50| 3
+Okkupert| Henrik Mestad| 60| 8
+The Moment of Truth| Mark L. Walberg| 45| 5
+Almost Human| Karl Urban| 24| 8
+Umbre| Serban Pavlu| 44| 9
+Gullak| Jameel Khan| 11| 9
+Galavant| Joshua Sasse| 30| 8
+MythBusters| Robert Lee| 42| 8
+Joahamyeon Ullineun| Kim So-Hyun| 30| 7
+Making It| Amy Poehler| 60| 8
+The Bletchley Circle| Rachael Stirling| 22| 8
+The New Legends of Monkey| Chai Hansen| 26| 7
+Hazbin Hotel| Jill Harris| 30| 8
+Sin Senos Sí Hay Paraíso| Fabián Ríos| 30| 7
+Ninjago| Kelly Metzger| 300| 8
+The Detour| Jason Jones| 45| 8
+Seeking Sister Wife| Jeff Alldredge| 15| 4
+Selling Sunset| Mary Fitzgerald| 60| 6
+Chambers| Sivan Alyra Rose| 60| 7
+Whose Line Is It Anyway?| Colin Mochrie| 20| 8
+Kath & Kim| Jane Turner| 25| 8
+She's Gotta Have It| DeWanda Wise| 42| 7
+8 Out of 10 Cats Does Countdown| Susie Dent| 45| 8
+Anazâ| Atsushi Abe| 46| 8
+Queens of Mystery| Julie Graham| 7| 7
+House of Anubis| Brad Kavanagh| 25| 7
+Bloom| Bryan Brown| 50| 7
+Bulletproof| Noel Clarke| 30| 7
+Comedians in Cars Getting Coffee| Jerry Seinfeld| 60| 8
+Mirai nikki| Josh Grelle| 469| 8
+Murder in the First| Taye Diggs| 30| 7
+Jenni Rivera: Mariposa de Barrio| Gabriel Porras| 45| 7
+Gang Related| Ramon Rodriguez| 50| 8
+Chicken Girls| Hayley LeBlanc| 43| 7
+Winx Club| Letizia Ciampa| 60| 6
+The Rook| Emma Greenwell| 23| 7
+Pawn Stars| Rick Harrison| 60| 7
+Republic of Doyle| Allan Hawco| 24| 7
+Cranford| Judi Dench| 60| 8
+Game Shakers| Cree Cicchino| 60| 5
+Bard of Blood| Emraan Hashmi| 22| 7
+Hache| Adriana Ugarte| 30| 7
+God Friended Me| Brandon Micheal Hall| 60| 7
+Light as a Feather| Liana Liberato| 11| 7
+Hit the Floor| Katherine Bailess| 30| 7
+Tengen toppa gurren lagann| Yuri Lowenthal| 45| 8
+The Innocents| Sorcha Groundsell| 24| 6
+Between| Jennette McCurdy| 30| 6
+Storage Wars| Brandi Passante| 40| 6
+Better Off Ted| Jay Harrington| 45| 8
+The Dead Zone| Anthony Michael Hall| 55| 7
+Red Rock| Patrick Ryan| 41| 8
+Estoy vivo| Javier Gutiérrez| 60| 8
+Metalocalypse| Brendon Small| 90| 8
+Schooled| Tim Meadows| 24| 7
+Home Fires| Clare Calbraith| 120| 8
+Ôran kôkô hosutobu| Maaya Sakamoto| 277| 8
+Weird City| Cynthy Wu| 24| 6
+Ingobernable| Kate del Castillo| 30| 7
+Der Bergdoktor| Hans Sigl| 60| 6
+Sangsogjadeul| Lee Min-Ho| 43| 8
+24: Legacy| Corey Hawkins| 29| 6
+The Amazing Race| Phil Keoghan| 5| 8
+Vienna Blood| Matthew Beard| 30| 7
+Blue's Clues & You!| Joshua Dela Cruz| 30| 7
+Kengan Ashura| Kaiji Tang| 225| 8
+Mucize Doktor| Taner Ölmez| 23| 7
+The Hot Zone| Julianna Margulies| 46| 7
+Owari no serafu| Miyu Irino| 42| 8
+Splitting Up Together| Jenna Fischer| 30| 7
+Sue Thomas: F.B.Eye| Deanne Bray| 60| 7
+The Brave| Anne Heche| 44| 8
+The Other One| Ellie White| 56| 8
+Breaking Bad: Original Minisodes| Bob Odenkirk| 45| 8
+Flowers| Sophia Di Martino| 42| 8
+Cartel Crew| Stephanie Acevedo| 30| 4
+Land Girls| Becci Gemmell| 120| 7
+The Spectacular Spider-Man| Josh Keaton| 30| 8
+Kurt Seyit ve Sura| Kivanç Tatlitug| 44| 7
+Powers| Sharlto Copley| 23| 7
+The Worst Witch| Raquel Cassidy| 55| 7
+Here and Now| Tim Robbins| 60| 7
+The Finder| Geoff Stults| 24| 8
+Soundtrack| Paul James| 120| 7
+Star Trek Continues| Vic Mignogna| 43| 8
+Eyewitness| Julianne Nicholson| 30| 8
+Disjointed| Kathy Bates| 60| 7
+Çarpisma| Kivanç Tatlitug| 60| 8
+School of Rock| Breanna Yde| 45| 5
+The Real Housewives of Atlanta| Kandi Burruss| 11| 4
+Fast & Furious Spy Racers| Tyler Posey| 60| 6
+Manhattan| Rachel Brosnahan| 420| 8
+W - Du gaeui segye| Han Hyo-joo| 60| 8
+Megalo Box| Yoshimasa Hosoya| 30| 8
+Yasak Elma| Sevval Sam| 50| 6
+For the People| Hope Davis| 50| 7
+A.N.T. Farm| China Anne McClain| 50| 5
+Good Behavior| Michelle Dockery| 30| 8
+Hilleo| Ji Chang-Wook| 13| 9
+Outrageous Fortune| Robyn Malcolm| 60| 8
+Childrens Hospital| Rob Huebel| 60| 8
+Secret Bridesmaids' Business| Abbie Cornish| 28| 7
+Little Dorrit| Claire Foy| 30| 8
+Shark Tank| """Kevin OLeary"""| 30| 8
+Uncle| Nick Helm| 52| 8
+Rogue| Cole Hauser| 30| 7
+Rojst| Dawid Ogrodnik| 30| 7
+Impulse| Maddie Hasson| 30| 7
+Bad Education| Jack Binstead| 41| 7
+RWBY| Lindsay Jones| 25| 8
+How the Universe Works| Phil Plait| 42| 9
+The Good Karma Hospital| Amanda Redman| 40| 8
+Bored to Death| Jason Schwartzman| 52| 8
+The Shop| Maverick Carter| 30| 7
+Just Tattoo of Us| Atom| 23| 4
+Kirgin Çiçekler| Arif Diren| 23| 6
+The Get Down| Justice Smith| 122| 8
+Stath Lets Flats| Jamie Demetriou| 60| 8
+The Bernie Mac Show| Bernie Mac| 60| 7
+Back to Life| Daisy Haggard| 52| 8
+Somewhere Between| Paula Patton| 43| 6
+Dead Pixels| Alexa Davies| 30| 7
+The Crossing| Steve Zahn| 47| 7
+Lore| Aaron Mahnke| 30| 7
+Unité 42| Patrick Ridremont| 30| 7
+Wrecked| Zach Cregger| 60| 7
+Drifters| Jessica Knappett| 30| 7
+1000 Ways to Die| Alisdair Simpson| 45| 7
+Ao Haru Ride| Yûki Kaji| 7| 8
+Pasión de Gavilanes| Danna García| 30| 8
+Brotherhood| Jason Isaacs| 60| 8
+Le chalet| Chloé Lambert| 24| 7
+Tru Calling| Eliza Dushku| 24| 7
+Top Coppers| John Kearns| 24| 6
+The Almighty Johnsons| Emmett Skilton| 24| 8
+If Loving You Is Wrong| Edwina Findley| 24| 6
+The Mighty Boosh| Julian Barratt| 24| 8
+Expedition Unknown| Josh Gates| 24| 8
+Femme Fatales| Tanit Phoenix| 24| 6
+Rebecka Martinsson| Eva Melander| 24| 7
+Hey Duggee| Alexander Armstrong| 24| 9
+College Romance| Manjot Singh| 24| 9
+Whiskey Cavalier| Scott Foley| 24| 7
+Life Below Zero| James Franzo| 44| 8
+Made in Abyss| Miyu Tomita| 325| 8
+Kadin| Özge Özpirinçci| 120| 7
+The Arrangement| Josh Henderson| 60| 7
+El internado| Marta Torné| 75| 8
+Il giovane Montalbano| Andrea Tidona| 120| 8
+Human Target| Mark Valley| 60| 8
+Wilfred| Elijah Wood| 22| 8
+Secrets and Lies| Ryan Phillippe| 43| 8
+The Grim Adventures of Billy & Mandy| Greg Eagles| 30| 8
+R.L. Stine's The Haunting Hour| Jeny Cassady| 23| 8
+Indian Summers| Henry Lloyd-Hughes| 52| 7
+Christina on the Coast| Christina Anstead| 30| 4
+Ao no ekusoshisuto| Nobuhiko Okamoto| 30| 8
+Club de Cuervos| Luis Gerardo Méndez| 40| 8
+Leonning maen| Jae-Suk Yoo| 80| 9
+Evil Lives Here| T.J. Craig| 43| 8
+Girlboss| Britt Robertson| 26| 7
+Mountain Men| Tom Oar| 42| 7
+Out of Love| Rasika Dugal| 50| 7
+Autopsy: The Last Hours of| Michael Hunter| 45| 8
+Behzat Ç.: Bir Ankara Polisiyesi| Erdal Besikçioglu| 90| 9
+Phil of the Future| Raviv Ullman| 25| 7
+Togetherness| Mark Duplass| 30| 8
+Stitchers| Emma Ishta| 60| 7
+The Looney Tunes Show| Jeff Bergman| 23| 8
+The Listener| Craig Olejnik| 42| 7
+Count Arthur Strong| Steve Delaney| 30| 8
+Charité| Alicia von Rittberg| 45| 8
+Carmen Sandiego| Finn Wolfhard| 22| 8
+L'art du crime| Nicolas Gob| 50| 7
+The Late Late Show with James Corden| James Corden| 60| 6
+Informer| Paddy Considine| 60| 8
+Green Wing| Sally Bretton| 65| 8
+Beulraek| Song Seung-heon| 360| 8
+Bakemonogatari| Hiroshi Kamiya| 185| 8
+Judge John Deed| Martin Shaw| 24| 8
+Kaichou wa meido-sama!| David Matranga| 90| 8
+Ask-i Memnu| Beren Saat| 60| 7
+Roadies| Carla Gugino| 60| 7
+Last Resort| Andre Braugher| 22| 7
+Undeclared| Jay Baruchel| 10| 8
+State of the Union| """Chris ODowd"""| 56| 8
+Boss| Kelsey Grammer| 45| 8
+Wolf Creek| John Jarratt| 30| 7
+The Avengers: Earth's Mightiest Heroes| Eric Loomis| 30| 8
+The Windsors| Celeste Dring| 30| 7
+Forever| Maya Rudolph| 43| 7
+Touch| Kiefer Sutherland| 44| 7
+Spider-Man| Robbie Daymond| 60| 6
+Saving Grace| Holly Hunter| 30| 8
+Work in Progress| Abby McEnany| 45| 7
+Dark Heart| Tom Riley| 16| 7
+Little Things| Dhruv Sehgal| 60| 8
+Outcast| Patrick Fugit| 60| 7
+Tabula Rasa| Veerle Baetens| 60| 8
+Chopped| Ted Allen| 42| 8
+Briarpatch| Rosario Dawson| 25| 7
+Ghostwriter| Isaac Arellanes| 21| 6
+Big Hero 6: The Series| Scott Adsit| 60| 7
+The Paradise| Joanna Vanderham| 60| 8
+Bedrag| Esben Smed| 21| 8
+Man Seeking Woman| Jay Baruchel| 30| 8
+Lingerie| Jennifer Korbin| 60| 7
+Il cacciatore| Francesco Montanari| 62| 7
+19-Feb| Adrian Holmes| 46| 8
+Romaenseuneun Byulchaekboorok| Lee Na-Young| 44| 8
+Above Suspicion| Kelly Reilly| 60| 7
+CSI: Cyber| Patricia Arquette| 44| 6
+Dokyumentaru| Hitoshi Matsumoto| 60| 8
+Alhambeura Goongjeonui Chooeok| Park Shin-Hye| 60| 8
+Love It or List It| Hilary Farr| 44| 6
+Nangmandakteo Kimsaboo| Han Suk-kyu| 55| 8
+The Tonight Show Starring Jimmy Fallon| Jimmy Fallon| 40| 7
+Alphas| David Strathairn| 24| 7
+Good Girls Revolt| Genevieve Angelson| 60| 8
+Helix| Billy Campbell| 30| 7
+PJ Masks| Addison Holley| 60| 6
+The Chase| Brooke Burns| 23| 7
+Teenage Mutant Ninja Turtles| Michael Sinterniklaas| 60| 8
+Znaki| Andrzej Konopka| 44| 6
+Guy's Grocery Games| Guy Fieri| 11| 7
+Sonny with a Chance| Demi Lovato| 60| 6
+Moonlight| """Alex OLoughlin"""| 60| 8
+The Real Housewives of New Jersey| Teresa Giudice| 138| 4
+Camp Camp| Michael Jones| 30| 8
+Caprica| Eric Stoltz| 21| 7
+Ghost Hunters| Jason Hawes| 43| 6
+Blue Murder| Caroline Quentin| 60| 7
+Soosanghan Pateuneo| Ji Chang-Wook| 23| 8
+Detroiters| Sam Richardson| 44| 8
+Vanderpump Rules| Katie Maloney| 30| 5
+Tangle| Justine Clarke| 24| 8
+Given| Takuya Eguchi| 40| 8
+Ransom| Luke Roberts| 60| 7
+House of Mouse| Wayne Allwine| 22| 8
+Bubble Guppies| Brianna Gentilella| 30| 6
+American Ninja Warrior| Matt Iseman| 24| 7
+Mocro Maffia| Robert de Hoog| 61| 8
+Brickleberry| Daniel Tosh| 60| 7
+The Casagrandes| Carlos Alazraqui| 300| 6
+Difficult People| Julie Klausner| 60| 7
+3Below: Tales of Arcadia| Tatiana Maslany| 60| 8
+The Last Tycoon| Matt Bomer| 60| 8
+Janet King| Marta Dusseldorp| 30| 8
+Five Days| Suranne Jones| 321| 7
+Unsolved| Josh Duhamel| 60| 8
+Blood Drive| Alan Ritchson| 43| 7
+Fear Factor| Joe Rogan| 60| 6
+The Repair Shop| Jay Blades| 30| 9
+DNA| Anders W. Berthelsen| 20| 7
+Legends| Sean Bean| 43| 8
+BH90210| Gabrielle Carteris| 240| 7
+Upstairs Downstairs| Keeley Hawes| 60| 7
+Codename: Kids Next Door| Dee Bradley Baker| 43| 7
+Grey's Anatomy: B-Team| Sarkis Ninos| 60| 8
+Breakout Kings| Domenick Lombardozzi| 70| 7
+Our Yorkshire Farm| Ralf Little| 30| 9
+Franklin & Bash| Mark-Paul Gosselaar| 22| 8
+Vampire Academy: the Officially Unofficial Fan Series| Ashley Lyn Blair| 20| 6
+Der Pass| Julia Jentsch| 60| 8
+The Street| Timothy Spall| 50| 8
+The Real O'Neals| Martha Plimpton| 26| 7
+Hunter Street| Kyra Isako Smith| 47| 7
+Two Sentence Horror Stories| Lauri Hendler| 24| 6
+No Ordinary Family| Michael Chiklis| 42| 7
+Chef's Table| Dan Barber| 120| 9
+Another Period| Natasha Leggero| 24| 7
+Trollied| Rita May| 30| 7
+Wild at Heart| Stephen Tompkinson| 24| 7
+Sôru îtâ| Laura Bailey| 21| 8
+Sister Wives| Meri Brown| 30| 4
+Hekimoglu| Timuçin Esen| 22| 7
+Arslan Senki| Jerry Jewell| 60| 8
+Gossip Boy| Daniel Landroche| 30| 5
+Stan Against Evil| John C. McGinley| 44| 7
+Back| David Mitchell| 30| 7
+Nana| Romi Pak| 52| 8
+Kristin| Kristin Chenoweth| 293| 6
+Dog with a Blog| Genevieve Hannelius| 60| 5
+Dirty Money| Matt Taibbi| 21| 8
+Pup Academy| Christian Convery| 22| 7
+Creeped Out| Victoria Diamond| 43| 7
+Dwight in Shining Armor| Sloane Morgan Siegel| 29| 8
+Shahs of Sunset| Asa Soltan Rahmati| 42| 5
+One on One| Kyla Pratt| 44| 7
+Un village français| Robin Renucci| 60| 8
+Mr. Sunshine| Matthew Perry| 30| 7
+Boiseu| Lee Hana| 12| 8
+Man Like Mobeen| Guz Khan| 30| 8
+Urban Myths| Robbie Coltrane| 22| 7
+The Real Housewives of Orange County| Vicki Gunvalson| 45| 4
+Upstart Crow| David Mitchell| 12| 8
+Chicago Justice| Philip Winchester| 24| 7
+Hamilton| Jakob Oftebro| 43| 7
+Twisted| Avan Jogia| 30| 7
+Outnumbered| Hugh Dennis| 30| 8
+Mike Tyson Mysteries| Mike Tyson| 60| 8
+The Big C| Laura Linney| 60| 8
+Drawn Together| Adam Carolla| 120| 7
+Being Erica| Erin Karpluk| 42| 8
+Looney Tunes Cartoons| Eric Bauza| 43| 8
+Satsuriku no Tenshi| Haruka Chisuga| 40| 6
+Underground| Jurnee Smollett| 60| 8
+A Little Late with Lilly Singh| Lilly Singh| 23| 2
+Danny Phantom| David Kaufman| 70| 7
+The Royal| Robert Daws| 90| 7
+Anthony Bourdain: No Reservations| Anthony Bourdain| 30| 9
+Very Scary People| Donnie Wahlberg| 60| 8
+Kurtlar Vadisi: Pusu| Necati Sasmaz| 42| 6
+Criminal Minds: Suspect Behavior| Forest Whitaker| 44| 6
+American Crime| Felicity Huffman| 60| 8
+Harper's Island| Elaine Cassidy| 60| 8
+Dickensian| Tuppence Middleton| 43| 8
+Ano hi mita hana no namae o bokutachi wa mada shiranai.| Miyu Irino| 42| 8
+El ministerio del tiempo| Cayetana Guillén Cuervo| 60| 8
+Les petits meurtres d'Agatha Christie| Blandine Bellavoir| 56| 8
+That '80s Show| Glenn Howerton| 33| 5
+Beat Shazam| Jamie Foxx| 60| 6
+Sea Patrol| John Batchelor| 30| 8
+Backstrom| Rainn Wilson| 120| 7
+30 for 30| Dick Vitale| 60| 9
+The Dresden Files| Paul Blackthorne| 30| 8
+The Enemy Within| Jennifer Carpenter| 60| 7
+Skins| Danny Flaherty| 30| 4
+Notorious| Piper Perabo| 44| 7
+Mad Dogs| Ben Chaplin| 43| 8
+Nailed It!| Nicole Byer| 60| 7
+The Hour| Romola Garai| 30| 8
+Cesur Ve Güzel| Kivanç Tatlitug| 120| 7
+The Playboy Club| Randy Steinmeyer| 30| 6
+Wild 'N Out| Nick Cannon| 30| 6
+Mutant X| Victoria Pratt| 60| 6
+Transformers Prime| Peter Cullen| 20| 8
+Heder| Julia Dufvenius| 42| 6
+Clique| Rachel Hurd-Wood| 90| 7
+Containment| David Gyasi| 22| 7
+The Real Bros of Simi Valley| Nick Colletti| 60| 9
+Million Dollar Listing New York| Fredrik Eklund| 60| 7
+Avlu| Demet Evgar| 60| 7
+Yeh Meri Family| Vishesh Bansal| 24| 9
+Mosaic| Jennifer Ferrin| 60| 6
+De Dag| Jeroen Perceval| 28| 8
+Skam France| Axel Auriant| 30| 8
+The Slap| Brian Cox| 75| 6
+Wallander| Krister Henriksson| 60| 8
+Inside Amy Schumer| Amy Schumer| 44| 6
+Dancing with the Stars| Carrie Ann Inaba| 26| 5
+Tian sheng chang ge| Kun Chen| 60| 9
+The Sarah Jane Adventures| Elisabeth Sladen| 13| 7
+At Home with Amy Sedaris| Amy Sedaris| 30| 8
+Yeokdoyojeong Gim Bokju| Lee Song-Kyoung| 52| 8
+Enlightened| Laura Dern| 30| 8
+American Woman| Alicia Silverstone| 30| 6
+Hwayugi| Lee Seung-gi| 50| 8
+Stella| Karen Paullada| 30| 8
+Bad Girls Club| Tanisha Thomas| 60| 5
+Green Eggs and Ham| Michael Douglas| 60| 8
+Siffredi Late Night - Hard Academy| Rocco Siffredi| 25| 6
+Kings| Ian McShane| 60| 8
+Scissor Seven| Jas Patrick| 42| 8
+Beat Bobby Flay| Bobby Flay| 60| 6
+Les Revenants| Anne Consigny| 75| 8
+Steins;Gate 0| J. Michael Tatum| 25| 8
+Couples Therapy| Orna Guralnik| 60| 8
+Playmate Playback| Amanda Cerny| 30| 6
+Verdades Secretas| Reynaldo Gianecchini| 24| 8
+Wild Bill| Rob Lowe| 44| 7
+The Graham Norton Show| Graham Norton| 60| 8
+Date a Live| Nobunaga Shimazaki| 30| 7
+Curfew| Phoebe Fox| 24| 6
+60 Days In| Dion Shepherd Jr.| 24| 8
+Silk| Maxine Peake| 24| 8
+SKY Castle| Jung-ah Yum| 24| 9
+SKAM Italia| Ludovica Martino| 24| 8
+A Haunting| Anthony D. Call| 24| 8
+The Best Sex Ever| Angela Nicholas| 24| 6
+The Mysteries of Laura| Debra Messing| 24| 7
+Kôkaku kidôtai: Stand Alone Complex| Shirô Saitô| 24| 9
+The Dumping Ground| Kia Pegg| 24| 7
+Travel Man: 48 Hours in...| Richard Ayoade| 24| 8
+The Lying Game| Alexandra Chando| 24| 7
+Necessary Roughness| Callie Thorne| 24| 7
+Wolfblood| Gabrielle Green| 24| 8
+The Accident| Sarah Lancashire| 188| 6
+The War at Home| Michael Rapaport| 30| 8
+Mr. Pickles| Dave Stewart| 15| 7
+X Company| Evelyne Brochu| 44| 8
+La catedral del mar| Jordi Aguilar| 55| 8
+GCB| Leslie Bibb| 430| 7
+The Last O.G.| Tracy Morgan| 30| 7
+Beyond| Burkely Duffield| 43| 7
+Kingdom| Adam Fedyk| 43| 8
+David Makes Man| Akili McDowell| 24| 7
+Tokyo Ghoul: Root A| Brina Palencia| 24| 8
+Hyouka| Yûichi Nakamura| 30| 8
+Champions| Anders Holm| 30| 6
+Corporate| Matt Ingebretson| 15| 8
+Thundercats| Will Friedle| 30| 8
+The Birch| Xaria Dotson| 60| 7
+Happily Divorced| Fran Drescher| 54| 7
+Rebelde| Estefania Villarreal| 43| 7
+Velvet Colección| Marta Hazas| 44| 7
+Awake| Jason Isaacs| 29| 8
+CollegeHumor Originals| Mike Trapp| 60| 8
+Jägarna| Rolf Lassgård| 62| 7
+Mock the Week| Dara O Briain| 60| 8
+24| Anil Kapoor| 43| 8
+Summer Camp Island| Oona Laurence| 60| 7
+Dolly Parton's Heartstrings| Dolly Parton| 30| 8
+Ellen: The Ellen DeGeneres Show| Ellen DeGeneres| 60| 7
+Take Two| Rachel Bilson| 22| 7
+Running Wild with Bear Grylls| Bear Grylls| 123| 8
+Happyish| Kathryn Hahn| 60| 7
+The Village| David Ryall| 45| 8
+Baroness Von Sketch Show| Carolyn Taylor| 23| 6
+Poyraz Karayel| Ilker Kaleli| 44| 8
+Case Histories| Jason Isaacs| 60| 8
+Gold Rush: Alaska| Paul Christie| 25| 7
+Arifureta Shokugyou de Sekai Saikyou| Tia Lynn Ballard| 60| 7
+Springfloden| Julia Ragnarsson| 24| 8
+Jimmy Kimmel Live!| Jimmy Kimmel| 88| 7
+Vampirina| Isabella Crovetti| 11| 7
+Cracked| David Sutcliffe| 30| 7
+Star Trek: Renegades| Walter Koenig| 25| 5
+Doc McStuffins| Lara Jill Miller| 75| 7
+Foster's Home for Imaginary Friends| Keith Ferguson| 42| 8
+Rosario Tijeras| Bárbara de Regil| 43| 6
+Danganronpa: Kibô no gakuen to zetsubô no kôkôsei - The animation| Megumi Ogata| 60| 7
+La que se avecina| Ricardo Arroyo| 120| 7
+Black Widows| Cecilia Forss| 50| 7
+The InBetween| Harriet Dyer| 24| 7
+The Oath| Ryan Kwanten| 60| 7
+Halka| Serkan Çayoglu| 43| 9
+Oogappels| Bracha van Doesburgh| 30| 8
+Charlotte| Koki Uchiyama| 90| 8
+Taineun Jiokida| Si-wan Yim| 42| 8
+Pit Bulls and Parolees| Tia Torres| 23| 8
+The Exes| Donald Faison| 60| 7
+Meurtres à...| Vanessa Liautey| 11| 6
+The Indian Doctor| Sanjeev Bhaskar| 45| 8
+1000-lb Sisters| Amy Slaton| 43| 6
+Girls Hostel| Srishti Shrivastava| 24| 8
+The Code| Anna Wood| 51| 6
+The Penguins of Madagascar| John DiMaggio| 24| 8
+Rush| Rodger Corser| 24| 8
+Homicide Hunter: Lt. Joe Kenda| Josh Casaubon| 60| 9
+Ask the StoryBots| Judy Greer| 60| 8
+Love/Hate| Tom Vaughan-Lawlor| 56| 9
+Toraburu| Akeno Watanabe| 120| 7
+Dragon Ball Kai: Doragon bôru kai| Masako Nozawa| 44| 8
+Somebody Feed Phil| Phil Rosenthal| 22| 8
+Fi| Ozan Güven| 70| 8
+Zasada przyjemnosci| Malgorzata Buczkowska| 90| 7
+Kizim| Bugra Gülsoy| 24| 6
+BrainDead| Mary Elizabeth Winstead| 90| 8
+Kuzu no honkai| Chika Anzai| 24| 7
+Ibeon Saengeun Cheoeumira| Lee Min-ki| 23| 8
+Jack Taylor| Iain Glen| 41| 8
+Generator Rex| Daryl Sabara| 28| 8
+Yemin| Gokberk Demirci| 30| 7
+Fruits Basket| Eric Vale| 35| 8
+Clarence| Spencer Rothbell| 60| 7
+The Late Show with Stephen Colbert| Stephen Colbert| 41| 7
+Cubicles| Abhishek Chauhan| 50| 8
+FETCH! with Ruff Ruffman| Jim Conroy| 60| 8
+Abhay| Kunal Khemu| 44| 8
+Black Earth Rising| John Goodman| 60| 8
+Deception| Jack Cutmore-Scott| 60| 8
+El embarcadero| Álvaro Morte| 60| 7
+Teoneol| Choi Jin-Hyuk| 59| 8
+The Incredible Dr. Pol| Jan Pol| 45| 9
+The Name of the Rose| John Turturro| 44| 7
+Shark| James Woods| 30| 7
+The Good Cop| Tony Danza| 43| 7
+Pinocchio| Lee Jong-Suk| 24| 8
+Shut Eye| Jeffrey Donovan| 70| 7
+Nightwatch| Gavin Istre| 30| 9
+Upper Middle Bogan| Annie Maynard| 30| 8
+Rush Hour| Justin Hires| 60| 6
+Yôkoso jitsuryoku shijô shugi no kyôshitsu e| Felecia Angelle| 5| 8
+Mar de plástico| Rodolfo Sancho| 45| 7
+Clannad| Yûichi Nakamura| 120| 8
+The Saddle Club| Kia Luby| 24| 6
+Satisfaction| Kestie Morassi| 30| 7
+PG Porn| Belladonna| 30| 8
+Dolunay| Özge Gürel| 42| 7
+Dance Academy| Xenia Goodwin| 60| 8
+Queen America| Belle Shouse| 42| 7
+American Dragon: Jake Long| Dante Basco| 60| 7
+Gåsmamman| Alexandra Rapaport| 85| 8
+Alaskan Bush People| Joshua Bam Bam Brown| 25| 6
+Summerland| Lori Loughlin| 60| 7
+The Astronaut Wives Club| JoAnna Garcia Swisher| 43| 7
+The Great Pottery Throw Down| Keith Brymer Jones| 60| 9
+My 600-lb Life| Younan Nowzaradan| 45| 7
+Boku wa tomodachi ga sukunai| Ryohei Kimura| 60| 7
+Women's Murder Club| Angie Harmon| 75| 7
+The Event| Jason Ritter| 45| 7
+Four More Shots Please!| Sayani Gupta| 25| 7
+Apharan| Arunoday Singh| 30| 8
+Chasing Life| Italia Ricci| 22| 8
+Isabel| Michelle Jenner| 60| 8
+Lang ya bang| Kei Gambit| 90| 9
+Chuunibyou demo koi ga shitai!| Jun Fukuyama| 60| 7
+Laguna Beach: The Real Orange County| Kristin Cavallari| 60| 5
+Moominvalley| Matt Berry| 60| 7
+Star-Crossed| Aimee Teegarden| 22| 7
+The Last Detective| Peter Davison| 42| 8
+City Homicide| Shane Bourne| 21| 8
+Aranyélet| Szabolcs Thuróczy| 60| 9
+Black Scorpion| Michelle Lintel| 24| 6
+The Erotic Traveler| Divini Rae| 42| 6
+Teen Mom 2| Kailyn Lowry| 22| 4
+Kung Fu Panda: Legends of Awesomeness| Mick Wingert| 44| 7
+Wipeout| John Henson| 18| 7
+Power Rangers Beast Morphers| Rorrie D. Travis| 23| 7
+Family Business| Jonathan Cohen| 42| 7
+Alcatraz| Sarah Jones| 22| 7
+Hataraku Saibou| Karen Strassman| 90| 8
+De viaje con los Derbez| Eugenio Derbez| 11| 6
+History of Horror| Eli Roth| 22| 8
+Selfie| Karen Gillan| 47| 7
+Almost Family| Brittany Snow| 60| 6
+T@gged| Lulu Antariksa| 35| 7
+Finding Carter| Kathryn Prescott| 90| 8
+So Random!| Tiffany Thornton| 12| 5
+Den som dræber| Laura Bach| 60| 7
+The Marvelous Misadventures of Flapjack| Brian Doyle-Murray| 21| 8
+Blaze and the Monster Machines| Nolan North| 45| 6
+Instinto| Mario Casas| 30| 6
+American Dreams| """Gail OGrady"""| 50| 8
+Roboti Aniya| Seung-eon Hwang| 30| 8
+Dead Lucky| Rachel Griffiths| 23| 7
+Seulgirowun Gamppangsaenghwal| Hae-soo Park| 42| 8
+Con Man| Alan Tudyk| 3| 8
+Life Unexpected| Shiri Appleby| 90| 8
+Mixology| Adam Campbell| 22| 7
+Safe House| Stephen Moyer| 90| 6
+W1A| Hugh Bonneville| 30| 8
+Striking Out| Amy Huberman| 24| 8
+Smosh| Ian Hecox| 12| 7
+Sex Ed| Casey Graf| 44| 7
+Burning Love| Michael Ian Black| 30| 8
+Intelligence| Josh Holloway| 50| 7
+IMDbrief| Alex Logan| 60| 6
+Hailey Dean Mystery| Kellie Martin| 60| 8
+My Babysitter's a Vampire| Matthew Knight| 60| 7
+Non uccidere| Miriam Leone| 49| 7
+The Firm| Josh Lucas| 22| 7
+Adam Ruins Everything| Adam Conover| 43| 8
+Deadman Wonderland| Greg Ayres| 60| 7
+Milo Murphy's Law| """Weird Al Yankovic"""| 22| 8
+Beowulf: Return to the Shieldlands| Kieran Bew| 60| 6
+Review| Andrew Daly| 50| 8
+Love My Way| Claudia Karvan| 80| 8
+Being Mary Jane| Gabrielle Union| 24| 8
+Sikeurit Gadeun| Ha Ji-Won| 10| 8
+New Amsterdam| Nikolaj Coster-Waldau| 60| 7
+You Are Wanted| Matthias Schweighöfer| 45| 6
+Slugterra| Lee Tockar| 43| 6
+Southern Charm| Kathryn Dennis| 30| 6
+Project Runway| Nina Garcia| 42| 7
+Totally Spies!| Janice Kawaye| 52| 7
+Clone High| Will Forte| 30| 8
+Prey| Rosie Cavaliero| 60| 7
+Celebrity Gogglebox| Craig Cash| 22| 7
+Naui Nara| Yang Se-Jong| 30| 8
+Akagami no Shirayuki-hime| Saori Hayami| 25| 8
+Ben & Holly's Little Kingdom| Preston Nyman| 60| 7
+Ssawooja Gwishina| Taecyeon| 29| 8
+My Girlfriend Is an Alien| Hsu Thassapak| 25| 9
+Bering Sea Gold| Shawn Pomrenke| 41| 7
+The Proud Family| Kyla Pratt| 45| 6
+Little Einsteins| David Jason| 42| 6
+Botched| Paul Nassif| 26| 7
+Il processo| Vittoria Puccini| 22| 7
+Heathers| Grace Victoria Cox| 120| 6
+Falling Water| David Ajala| 44| 7
+Rise of the Teenage Mutant Ninja Turtles| Ben Schwartz| 60| 6
+Half & Half| Essence Atkins| 24| 7
+ImMATURE| Rashmi Agdekar| 22| 9
+Katorse| Erich Gonzales| 60| 9
+Lip Service| Fiona Button| 21| 7
+Little Britain| Matt Lucas| 22| 8
+Ergo Proxy| Kôji Yusa| 115| 8
+Fairly Legal| Sarah Shahi| 90| 7
+Besa| Radivoje Bukvic| 30| 9
+Daniel Tiger's Neighborhood| Addison Holley| 24| 7
+Marlon| Marlon Wayans| 23| 7
+Dogdugun Ev Kaderindir| Demet Özdemir| 60| 6
+America's Book of Secrets| Jonathan Adams| 22| 7
+Grenseland| Tobias Santelmann| 120| 7
+Akatsuki no Yona| Monica Rial| 26| 8
+Pair of Kings| Ryan Ochoa| 30| 6
+Life on Mars| """Jason OMara"""| 47| 7
+Flip or Flop| Tarek El Moussa| 45| 6
+Dragons: Riders of Berk| Jay Baruchel| 853| 8
+Eastsiders| Kit Williamson| 43| 7
+Kuzey Güney| Kivanç Tatlitug| 120| 8
+Hope & Faith| Faith Ford| 21| 6
+The Octonauts| Ross Breen| 60| 8
+Hudson| Madison Cheeatow| 20| 7
+Clannad: After Story| Yûichi Nakamura| 30| 9
+Sekirei| Joel McDonald| 30| 7
+North Shore| Kristoffer Polaha| 60| 7
+Wheeler Dealers| Mike Brewer| 52| 8
+Kaçak Gelinler| Selin Sekerci| 24| 6
+Au service de la France| Hugo Becker| 45| 8
+Sacred Lies| Elena Kampouris| 30| 8
+Made in Chelsea| Jamie Laing| 30| 5
+Dirty Sexy Money| Peter Krause| 30| 7
+El tiempo entre costuras| Adriana Ugarte| 24| 8
+Million Dollar Listing Los Angeles| Josh Flagg| 24| 6
+Bir Zamanlar Çukurova| Hilal Altinbilek| 24| 6
+Power Rangers Ninja Steel| William Shewfelt| 24| 6
+The Dead Files| Amy Allan| 24| 7
+Mahabharat| Saurabh Raj Jain| 24| 9
+Sunday| Melvin Kakooza| 24| 8
+Kroll Show| Nick Kroll| 24| 7
+wtFOCK| Veerle Dejaeger| 24| 8
+Camping| Jennifer Garner| 24| 5
+Fast n' Loud| Richard Rawlings| 24| 8
+Luck| Dustin Hoffman| 24| 8
+Hataraku Maou-sama!| Ryôta Ôsaka| 24| 8
+Beecham House| Tom Bateman| 24| 7
+The Fresh Beat Band| Jon Beavers| 24| 6
+Batman: The Brave and the Bold| Diedrich Bader| 24| 7
+Living with Fran| Fran Drescher| 24| 6
+The Flemish Bandits| Matteo Simoni| 45| 7
+Trust Me| Jodie Whittaker| 55| 7
+Training Day| Bill Paxton| 42| 6
+Missions| Giorgia Sinicorni| 26| 7
+Life with Derek| Michael Seater| 22| 7
+Hellcats| Aly Michalka| 60| 7
+Everyone Is Doing Great| James Lafferty| 37| 8
+How to Make It in America| Bryan Greenberg| 30| 8
+Klem| Barry Atsma| 45| 8
+Modus| Melinda Kinnaman| 45| 7
+Sugar Rush| Olivia Hallinan| 24| 8
+Free!| Jamie Marchi| 24| 7
+Mars| Jihae| 60| 8
+Mum| Lesley Manville| 30| 8
+A Gifted Man| Patrick Wilson| 45| 7
+See No Evil| Ross Huguet| 43| 8
+O Negócio| Rafaela Mandelli| 51| 8
+Last Chance U| Ron Ollie| 55| 8
+The Young Offenders| Alex Murphy| 30| 8
+Payitaht Abdülhamid| Bülent Inal| 120| 5
+De Twaalf| Luc De Ruelle| 50| 8
+Sisyphus| Lee Aggiem| 44| 6
+Satisfaction| Matt Passmore| 70| 7
+Tiempos de guerra| Amaia Salamanca| 22| 8
+Sirens| Michael Mosley| 11| 8
+Sonic Boom| Roger Craig Smith| 60| 7
+Worst Cooks in America| Anne Burrell| 42| 6
+Valor| Christina Ochoa| 60| 6
+Stalker| Dylan McDermott| 22| 8
+Samantha Who?| Christina Applegate| 30| 7
+Psychoville| Reece Shearsmith| 26| 8
+Wild Kratts| Chris Kratt| 45| 8
+Delicious| Iain Glen| 30| 7
+The Haunted Hathaways| Chico Benymon| 22| 5
+Guardians of the Galaxy| Kevin Michael Richardson| 120| 7
+Bu Sehir Arkandan Gelecek| Kerem Bürsin| 43| 6
+Resurrection| Omar Epps| 25| 7
+Magi: The Labyrinth of Magic| Kaori Ishihara| 42| 8
+Undercover Billionaire| Grant Cardone| 60| 8
+Murphy's Law| James Nesbitt| 172| 8
+The Trip| Steve Coogan| 40| 8
+Yankee| Pablo Lyle| 30| 6
+Fam| Nina Dobrev| 60| 6
+Duck Dynasty| Jase Robertson| 44| 6
+Crikey! It's the Irwins| Terri Irwin| 60| 8
+Intervention| Candy Finnigan| 11| 8
+Mount Pleasant| Sally Lindsay| 18| 7
+Dream Corp LLC| Jon Gries| 3| 7
+Explained| Estelle Caswell| 45| 8
+Gay of Thrones| Jonathan Van Ness| 43| 6
+When Heroes Fly| Tomer Capon| 70| 7
+Camp| Rachel Griffiths| 42| 7
+Byuti Insaideu| Hyeon-jin Seo| 42| 8
+Dr. Pimple Popper| Sandra Lee| 120| 7
+Love Island| Matthew Hoffman| 43| 5
+Älska mig| Josephine Bornebusch| 30| 8
+Married at First Sight Australia| Tracey Jewel| 30| 5
+Muhtesem Yüzyil: Kösem| Hakan Sahin| 23| 6
+Paranormal Caught on Camera| Brian J. Cano| 120| 6
+Sex Games Vegas| Chloe Nicole| 60| 6
+Life's Too Short| Warwick Davis| 45| 8
+IMDb Supercuts| | 30| 6
+Kamisama hajimemashita| Tia Lynn Ballard| 60| 8
+All Elite Wrestling: Dynamite| Tony Schiavone| 10| 9
+Cinderellawa Ne Myungui Gisa| Il-Woo Jung| 60| 7
+The King's Avatar| Yang Yang| 43| 8
+Sally4Ever| Julian Barratt| 60| 7
+Chase| Kelli Giddish| 60| 7
+Star Trek: Short Treks| Anson Mount| 25| 7
+Eli Stone| Jonny Lee Miller| 47| 8
+Deadly Women| Lynnanne Zager| 35| 8
+Goo-hae-jwo| Jo Jae-yoon| 110| 8
+The Apprentice| Donald Trump| 22| 5
+Ultraman| Josh Hutcherson| 24| 7
+Keizersvrouwen| Karina Smulders| 22| 6
+Bombam| Jung Hae-In| 24| 8
+Filinta| Cem Uçan| 21| 7
+Mahouka koukou no rettousei| Yûichi Nakamura| 30| 7
+Zombieland Saga| Rika Kinugawa| 27| 7
+The Girls Next Door| Hugh Hefner| 60| 5
+8 Out of 10 Cats| Jimmy Carr| 30| 8
+Permanent Roommates| Sumeet Vyas| 20| 9
+Running Wilde| Will Arnett| 47| 7
+Plan Coeur| Joséphine Draï| 11| 7
+Wicked Tuna| Dave Marciano| 60| 7
+The Heights| Shari Sebbens| 11| 7
+The Crazy Ones| Robin Williams| 120| 7
+One Strange Rock| Will Smith| 50| 9
+Your Pretty Face Is Going to Hell| Matt Servitto| 44| 8
+Blade: The Series| Sticky Fingaz| 42| 6
+Alvinnn!!! And the Chipmunks| Ross Bagdasarian Jr.| 23| 5
+Öyle Bir Geçer Zaman ki| Ayça Bingöl| 30| 7
+Hatufim| Ishai Golan| 22| 8
+Ringer| Sarah Michelle Gellar| 23| 7
+Famous in Love| Bella Thorne| 23| 7
+Muppet Babies| Matt Danner| 60| 7
+All Grown Up!| Elizabeth Daily| 60| 6
+The Millers| J.B. Smoove| 30| 6
+The Tick| Patrick Warburton| 24| 8
+The Naked Brothers Band| Nat Wolff| 42| 3
+The Red Road| Martin Henderson| 70| 7
+Damien| Bradley James| 60| 7
+The New Normal| Justin Bartha| 45| 7
+Higurashi no naku koro ni| Rebecca Forstadt| 22| 8
+American Idol: The Search for a Superstar| Ryan Seacrest| 24| 4
+The Feed| Guy Burnet| 60| 6
+The Startup| Parvesh Cheena| 120| 7
+Habaekui Shinboo| Nam Joo-Hyuk| 60| 7
+Wonderfalls| Caroline Dhavernas| 60| 8
+Put Your Head on My Shoulder| Xing Fei| 30| 8
+Solsidan| Felix Herngren| 60| 8
+Unfabulous| Emma Roberts| 30| 6
+Joan of Arcadia| Amber Tamblyn| 60| 7
+Zalim Istanbul| Fikret Kuskan| 60| 6
+The Family| Joan Allen| 25| 8
+Mercy| Taylor Schilling| 11| 7
+Haters Back Off!| Colleen Ballinger| 24| 6
+Eye Candy| Victoria Justice| 60| 7
+Dating #NoFilter| Cara Connors| 21| 7
+The Brink| Jack Black| 30| 8
+Oh Naui Gwishinnim| Park Bo-Young| 58| 8
+The Powerpuff Girls| Nicolas Cantu| 30| 4
+Find Me in Paris| Jessica Lord| 60| 7
+The Shivering Truth| Vernon Chatman| 60| 8
+Team Umizoomi| Donovan Patton| 45| 6
+Tarzan| Travis Fimmel| 42| 7
+Carol's Second Act| Patricia Heaton| 44| 6
+The Job Lot| Sarah Hadland| 30| 7
+Dirk Gently| Stephen Mangan| 30| 8
+Boku dake ga inai machi| Yûki Furukawa| 12| 8
+The Voice| Blake Shelton| 28| 7
+Island of Bryan| Bryan Baeumler| 42| 7
+Class| Katherine Kelly| 22| 7
+Second Chance| Robert Kazinsky| 30| 8
+El Final del Paraíso| Carmen Villalobos| 30| 6
+Whitney| Whitney Cummings| 2| 6
+Forbidden Science| Vanessa Broze| 22| 5
+Good Mythical Morning| Rhett McLaughlin| 30| 9
+Jamie Johnson| Louis Dunn| 24| 7
+Cold Courage| Sofia Pekkari| 40| 7
+Hostages| Ronit Roy| 90| 7
+Taarak Mehta Ka Ooltah Chashmah| Dilip Joshi| 21| 8
+Pulling| Sharon Horgan| 60| 8
+Men at Work| Danny Masterson| 22| 7
+Princess Rap Battle| Whitney Avalon| 22| 8
+101 Dalmatian Street| Josh Brener| 42| 6
+The Chef Show| Jon Favreau| 60| 8
+Gôruden taimu| Yui Horie| 43| 8
+Mortel| Ryan Cargill| 30| 7
+Capitaine Marleau| Corinne Masiero| 26| 7
+Hot Sluts| Alison Brie| 45| 5
+Yasamayanlar| Elçin Sangu| 60| 5
+Undateable| """Chris DElia"""| 30| 7
+Spicks and Specks| Adam Hills| 22| 8
+Der Usedom-Krimi| Max Hopp| 22| 7
+Thunderbirds Are Go| Thomas Brodie-Sangster| 25| 7
+The Returned| Kevin Alejandro| 30| 7
+River City| Scott Vickers| 46| 6
+Married to Medicine| Quad Webb-Lunceford| 10| 5
+I'm in the Band| Logan Miller| 30| 7
+Two Pints of Lager and a Packet of Crisps| Will Mellor| 25| 7
+Terriers| Donal Logue| 29| 8
+666 Park Avenue| Rachael Taylor| 43| 7
+Animals.| Phil Matarese| 38| 7
+Deadbeat| Tyler Labine| 30| 7
+The Hillywood Show| Hilly Hindi| 60| 9
+Grandfathered| John Stamos| 24| 7
+Hello Mini| Anuja Joshi| 22| 9
+Still Open All Hours| James Baxter| 60| 6
+Diablo Guardián| Paulina Gaitan| 22| 6
+13 Geboden| Dirk van Dijck| 30| 7
+Stargate Origins| Ellie Gall| 60| 4
+Curious George| Jeff Bennett| 11| 7
+Sangatsu no Lion| Kengo Kawanishi| 24| 8
+Home for Christmas| Ida Elise Broch| 23| 8
+Ravenswood| Nicole Gale Anderson| 29| 7
+Rust Valley Restorers| Michael Daingerfield| 30| 8
+Craig Ross Jr.'s Monogamy| Jill Marie Jones| 60| 7
+El Recluso| Ignacio Serricchio| 45| 7
+Kobayashi-san Chi No Maid Dragon| Mutsumi Tamura| 22| 8
+Richie Rich| Jake Brennan| 11| 3
+Bruh| Mahdi Cocci| 44| 4
+When Hope Calls| Morgan Kohan| 52| 8
+Press Your Luck| Elizabeth Banks| 80| 6
+Dino Dana| Michela Luci| 140| 7
+Lady Dynamite| Maria Bamford| 60| 7
+Strangers| John Simm| 43| 6
+Chowder| Nicky Jones| 44| 7
+Kureimoa| Todd Haberkorn| 65| 8
+The Last Kids on Earth| Nick Wolfhard| 41| 7
+Shaman Kingu| Oliver Wyman| 45| 8
+Hello Ladies| Stephen Merchant| 50| 7
+Lehiyot Ita| Avraham Aviv Alush| 60| 8
+Dani Who?| Julia Urbini| 35| 8
+Farouk Omar| Samer Ismail| 11| 9
+Pete the Cat| Jacob Tremblay| 24| 8
+Total Dramarama| Drew Nelson| 60| 4
+No te puedes esconder| Blanca Soto| 43| 7
+TharnType| Suppasit Jongcheveevat| 23| 8
+Los hombres de Paco| Paco Tous| 22| 7
+Kördügüm| Ibrahim Celikkol| 23| 7
+The Fix| Robin Tunney| 23| 7
+Wonderland| Anna Bamford| 60| 8
+Fear Thy Neighbor| Tish Iceton| 15| 8
+Gold Rush: Dave Turin's Lost Mine| Dave Turin| 43| 7
+Good Doctor| Joo Won| 42| 8
+Marseille| Karen Strassman| 60| 7
+Ashes of Love| Yuqi Chen| 120| 8
+Beau Séjour| Lynn Van Royen| 60| 8
+RuPaul's Drag Race UK| Michelle Visage| 24| 8
+Eojjeoda Balgyeonhan Haru| Kim Hye-Yoon| 30| 8
+The Great British Sewing Bee| Patrick Grant| 60| 8
+Scott The Woz| Scott Wozniak| 40| 9
+Mo Dao Zu Shi| Jiang Bian| 60| 9
+Motive| Kristin Lehman| 90| 7
+The Chase| Bradley Walsh| 30| 7
+An Idiot Abroad| Karl Pilkington| 60| 8
+Supernatural: The Animation| Jared Padalecki| 21| 7
+Chosen| Caitlin Carmichael| 42| 7
+Yo Gabba Gabba!| Lance Robertson| 120| 7
+Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?| Clifford Chapin| 25| 6
+The Village| Moran Atias| 30| 8
+The Story of Tracy Beaker| Dani Harmer| 30| 7
+Red Band Society| Octavia Spencer| 85| 8
+The InBESTigators| Abby Bergman| 30| 8
+Frequency| Peyton List| 11| 8
+Late Night with Seth Meyers| Seth Meyers| 120| 6
+Bizim Hikaye| Hazal Kaya| 23| 6
+The Collection| Richard Coyle| 24| 7
+Danger 5| David Ashby| 24| 8
+No Small Parts| Brandon Hardesty| 24| 8
+Holey Moley| Joe Tessitore| 24| 7
+Dark/Web| Brian Elerding| 24| 6
+Living the Dream| Philip Glenister| 24| 7
+Irene Huss| Angela Kovacs| 24| 7
+Bella and the Bulldogs| Brec Bassinger| 24| 5
+Dystopia| Michael Copon| 24| 5
+MasterChef| Jordi Cruz| 24| 7
+Real Husbands of Hollywood| Kevin Hart| 24| 8
+Video Game High School| Josh Blaylock| 24| 8
+Deal or No Deal| Howie Mandel| 24| 5
+Rozario to banpaia| Daisuke Kishio| 24| 7
+Less Than Perfect| Sara Rue| 24| 7
+The Bill Engvall Show| Bill Engvall| 24| 6
+Garage Sale Mysteries| Lori Loughlin| 24| 7
+Getting On| Laurie Metcalf| 24| 8
+Elimi birakma| Alina Boz| 24| 7
+How to Stay Married| Peter Helliar| 24| 5
+Sex Chronicles| Patrice Fisher| 24| 6
+Lab Rats: Elite Force| William Brent| 30| 7
+Coisa Mais Linda| Maria Casadevall| 45| 8
+I Am a Killer| Swaylee Loughnane| 52| 7
+Love O2O| Yang Yang| 45| 8
+Be Careful with My Heart| Jodi Sta. Maria| 120| 8
+Istanbullu Gelin| Özcan Deniz| 30| 7
+Bondi Rescue| Osher Günsberg| 30| 8
+Ugly Americans| Matt Oberg| 58| 8
+Merlí| Francesc Orella| 28| 9
+M.I.High| Chris Stanton| 24| 6
+Shinya shokudô| Kaoru Kobayashi| 41| 9
+Frontera Verde| Nelson Camayo| 30| 7
+Lip Sync Battle| C.J. Tyson| 20| 7
+Quantum Break| Shawn Ashmore| 15| 8
+Jake and the Never Land Pirates| David Arquette| 47| 6
+I Am...| Gemma Chan| 21| 7
+Power Rangers Dino Charge| Brennan Mejia| 30| 7
+Bakuten shoot beyblade| Marlowe Gardiner-Heslin| 22| 7
+Gantz| Chris Ayres| 60| 7
+Tremors| Victor Browne| 24| 7
+Invader ZIM| Andy Berman| 30| 8
+Crank Yankers| Victor Yerrid| 60| 6
+Those Who Kill| Chloë Sevigny| 60| 7
+Dead of Summer| Elizabeth Mitchell| 60| 6
+Reef Break| Poppy Montgomery| 22| 6
+Lilo & Stitch: The Series| Daveigh Chase| 21| 7
+One Big Happy| Elisha Cuthbert| 45| 6
+Party of Five| Brandon Larracuente| 30| 5
+Evermoor| Alex Starke| 30| 6
+People Magazine Investigates| Steve Helling| 44| 8
+Car Share| Peter Kay| 30| 8
+Battle Creek| Josh Duhamel| 45| 7
+The Letdown| Alison Bell| 24| 8
+Kekkai Sensen| Daisuke Sakaguchi| 24| 7
+Muhtesem Ikili| Ibrahim Celikkol| 60| 6
+Nature Cat| Taran Killam| 60| 7
+Small Fortune| """Dermot OLeary"""| 90| 3
+Washington Heights| | 440| 7
+Fatmagül'ün Suçu Ne?| Beren Saat| 45| 6
+Midnight Sun| Leïla Bekhti| 60| 8
+Some Assembly Required| Kolton Stewart| 30| 4
+Case| Steinunn Ólína Þorsteinsdóttir| 11| 7
+A Touch of Cloth| John Hannah| 60| 8
+Teachers| Caitlin Barlow| 40| 7
+The Greatest Event in Television History| Amanda Anka| 60| 8
+Expedition Bigfoot| Mireya Mayor| 24| 5
+Ghost Wars| Avan Jogia| 50| 6
+The Bisexual| Desiree Akhavan| 44| 6
+My Mother and Other Strangers| Ciarán Hinds| 60| 7
+Orange| Jill Harris| 30| 8
+Weissensee| Florian Lukas| 44| 8
+Vegas| Dennis Quaid| 7| 7
+Les rivières pourpres| Olivier Marchal| 60| 7
+Ghosted| Adam Scott| 22| 6
+Bigger| Tanisha Long| 60| 8
+Ekaterina| Marina Aleksandrova| 22| 8
+Shaun the Sheep| Justin Fletcher| 24| 8
+Dr. Phil| Phil McGraw| 60| 4
+Trial & Error| """Nicholas DAgosto"""| 53| 8
+Reverie| Sarah Shahi| 60| 7
+Freakish| Leo Howard| 43| 6
+Liza on Demand| Liza Koshy| 56| 5
+Tales| David Dunston| 11| 6
+Mercy Street| McKinley Belcher III| 43| 8
+Total Control| Deborah Mailman| 60| 8
+Property Brothers| Drew Scott| 40| 7
+In the Flesh| Luke Newberry| 22| 8
+Steven Universe Future| Michaela Dietz| 30| 8
+Mountain Monsters| Jacob Lowe| 30| 5
+The Gates| Rhona Mitra| 44| 7
+Siempre Bruja| Sofía Araujo Mejía| 30| 6
+Wonder Pets!| Sofie Zamchick| 24| 6
+Comedy Bang! Bang!| Scott Aukerman| 50| 8
+The Kids Are Alright| Mary McCormack| 23| 8
+Face Off| McKenzie Westmore| 42| 8
+Trinity Seven: 7-nin no Masho Tsukai| Cameron Bautsch| 45| 7
+Max & Ruby| Lynn Cleckner| 60| 6
+Grand Blue| Yuma Uchida| 25| 8
+The Green Green Grass| John Challis| 30| 7
+Moone Boy| """Chris ODowd"""| 22| 8
+Zindagi Gulzar Hai| Sanam Saeed| 30| 9
+Hierro| Candela Peña| 21| 8
+Privileged| JoAnna Garcia Swisher| 4| 7
+Real Time with Bill Maher| Bill Maher| 40| 7
+Nisekoi| Koki Uchiyama| 30| 7
+Dongbaekkkot Pil Muryeop| Kong Hyo-Jin| 27| 8
+About a Boy| David Walton| 60| 7
+Forhøret| Ulrich Thomsen| 45| 7
+Dr. Ken| Ken Jeong| 22| 6
+Mickey Mouse| Chris Diamantopoulos| 22| 8
+Go! Vive a Tu Manera| Rebecca Davis| 29| 7
+Who Is America?| Sacha Baron Cohen| 23| 8
+Home| Rufus Jones| 30| 8
+Overhaulin'| Chip Foose| 60| 7
+Dancing Queen| Alyssa Edwards| 43| 7
+The Class| Andrea Anders| 46| 8
+I Didn't Do It| Olivia Holt| 21| 6
+The Test Case| Nimrat Kaur| 23| 8
+A Young Doctor's Notebook & Other Stories| Jon Hamm| 384| 8
+My Boys| Jordana Spiro| 60| 7
+Fixer Upper| Chip Gaines| 26| 8
+Det som göms i snö| Robert Gustafsson| 26| 7
+Stella Blómkvist| Heida Reed| 75| 7
+Mickey and the Roadster Racers| Bill Farmer| 60| 6
+Confess| Katie Leclerc| 30| 8
+Baccano!| Michael C. Pizzuto| 22| 8
+Geunyeoneun yeppeodda| Hwang Jeong-eum| 35| 8
+Los Espookys| Cassandra Ciangherotti| 30| 8
+Project Mc²| Mika Abdalla| 30| 6
+El barco| Juanjo Artero| 90| 7
+The A Word| Max Vento| 40| 8
+The Girl's Guide to Depravity| Rebecca Blumhagen| 46| 7
+Power Rangers Samurai| Alexander P. Heartman| 45| 5
+The Angry Video Game Nerd| James Rolfe| 46| 9
+Sonic X| Gabriella Lewis| 60| 6
+Trophy Wife| Malin Akerman| 30| 7
+Yer Gök Ask| Birce Akalay| 30| 4
+American Gothic| Juliet Rylance| 25| 7
+Homestead Rescue| Marty Raney| 60| 8
+The Bletchley Circle: San Francisco| Crystal Balint| 44| 7
+A Nero Wolfe Mystery| Timothy Hutton| 30| 8
+Dakteo Yibangin| Lee Jong-Suk| 24| 7
+Snapped| Sharon Martin| 47| 8
+Coop and Cami Ask the World| Dakota Lotus| 74| 6
+Sessão de Terapia| Zécarlos Machado| 22| 8
+Charlie's Angels| Annie Ilonzeh| 60| 4
+Bonusfamiljen| Vera Vitali| 60| 8
+TRON: Uprising| Elijah Wood| 21| 8
+Vanpaia naito| Yui Horie| 42| 7
+Aetaneun Romaenseu| Ji-eun Song| 45| 7
+Ultimate Force| Ross Kemp| 44| 8
+Alone Together| Esther Povitsky| 6| 7
+El marginal| Martina Gusman| 44| 8
+So You Think You Can Dance| Cat Deeley| 30| 7
+Sex & Drugs & Rock & Roll| Denis Leary| 60| 7
+Ambitions| Brian White| 30| 5
+WPC 56| """Charles DeAth"""| 60| 7
+Life Sentence| Lucy Hale| 30| 7
+Red vs. Blue| Gus Sorola| 45| 8
+The Chicago Code| Jason Clarke| 30| 8
+Raised by Wolves| Philip Jackson| 12| 8
+Melrose Place| Katie Cassidy| 22| 6
+Zapped| James Buckley| 60| 7
+Mysteries of the Abandoned| Dominic Selwood| 60| 7
+Mr. D| Gerry Dee| 22| 7
+La Doña| Aracely Arámbula| 60| 7
+Wander Over Yonder| Jack McBrayer| 13| 7
+Dante's Cove| William Gregory Lee| 30| 6
+Zac and Mia| Anne Winters| 60| 8
+6Teen| Jess Mal Gibbons| 60| 7
+Scrubs: Interns| Jae Hitch| 608| 6
+The Whispers| Lily Rabe| 24| 7
+Witchblade| Yancy Butler| 25| 7
+T.O.T.S.| Jet Jurgensmeyer| 30| 7
+Enemigo Íntimo| Fernanda Castillo| 22| 7
+The Great Food Truck Race| Tyler Florence| 60| 7
+Gaslight| Chloë Grace Moretz| 11| 6
+Chacha Vidhayak Hain Humare| Zakir Khan| 23| 8
+Survivor's Remorse| RonReaco Lee| 30| 7
+Law & Order: Los Angeles| Corey Stoll| 75| 7
+Sleeper Cell| Michael Ealy| 60| 8
+Kingdom Hospital| Jamie Harrold| 11| 7
+Drifters| Justin Briner| 55| 8
+Young Dracula| Keith-Lee Castle| 45| 8
+Good Bones| Austin Aynes| 21| 7
+Knight Squad| Lexi DiBenedetto| 30| 6
+Power Rangers S.P.D.| Brandon Jay McLaren| 60| 7
+Eastwick| Jaime Ray Newman| 42| 6
+Check It Out! with Dr. Steve Brule| John C. Reilly| 24| 9
+Escape the Night| Joey Graceffa| 24| 6
+Blue Water High| Sophie Luck| 22| 7
+Baekilui Nanggoonnim| Kyung-soo Do| 22| 8
+Love Bites| Becki Newton| 24| 8
+Apple & Onion| Sayed Badreya| 30| 6
+Born and Bred| Jenna Russell| 25| 8
+Intruders| James Frain| 42| 7
+Powerless| Vanessa Hudgens| 90| 6
+Mighty Med| Bradley Steven Perry| 30| 7
+Cheese in the Trap| Park Hae-Jin| 60| 7
+Black Box| Kelly Reilly| 72| 7
+GameFace| Roisin Conaty| 30| 8
+The Hollow| Ashleigh Ball| 120| 7
+The Office| Gopal Datt| 60| 6
+Odd Mom Out| Jill Kargman| 22| 7
+Golden Kamuy| Haruka Shiraishi| 23| 8
+Say Yes to the Dress| Roger Craig Smith| 30| 6
+Mushishi| Yûto Nakano| 60| 9
+Uncanny X-Men| Barry Piacente| 20| 7
+The Final Call| Arjun Rampal| 40| 7
+Banged Up Abroad| Manuel Villasenor| 30| 8
+El Club| Alejandro Speitzer| 47| 6
+Street Outlaws| Justin Shearer| 30| 7
+Orphan Black: The Next Chapter| Evelyne Brochu| 60| 9
+Sarabhai V/S Sarabhai| Satish Shah| 30| 9
+Paramparça| Erkan Petekkaya| 40| 6
+Rescue Special Ops| Daniel Amalm| 48| 7
+The Cool Kids| David Alan Grier| 23| 7
+Vicious| Derek Jacobi| 60| 8
+Ground Floor| Skylar Astin| 42| 7
+Kingdom| Stephen Fry| 60| 8
+Bekaaboo| Priya Banerjee| 43| 7
+Kfulim| Angel Bonanni| 42| 8
+Instant Star| Tim Rozon| 43| 7
+Swingtown| Molly Parker| 17| 8
+Inside the World's Toughest Prisons| Raphael Rowe| 30| 7
+Happy Together| Damon Wayans Jr.| 59| 6
+The Beast| Patrick Swayze| 60| 8
+The Great Indoors| Joel McHale| 30| 6
+Car Masters: Rust to Riches| Constance Nunes| 48| 9
+Typewriter| Aarnaa Sharma| 192| 7
+Geordie Shore| Gaz Beadle| 75| 5
+sMothered| Rissa Razzi| 60| 4
+Spotless| Marc-André Grondin| 23| 8
+Rise| Josh Radnor| 46| 6
+Detective McLean| Kelli Williams| 24| 6
+Believe| Jake McLaughlin| 21| 7
+Attack on Titan: Junior High| Yûki Kaji| 30| 7
+So Little Time| Mary-Kate Olsen| 22| 6
+The Field of Blood| Matt Costello| 29| 7
+Teen Mom| Amber Portwood| 584| 4
+Son of Zorn| Cheryl Hines| 11| 7
+Transporter: The Series| Chris Vance| 60| 7
+Il était une seconde fois| Gaspard Ulliel| 3| 6
+Krypto the Superdog| Sam Vincent| 50| 6
+Worzel Gummidge| India Brown| 30| 8
+Geunyeoui Sasaenghwal| Ahn Bo-Hyun| 60| 8
+Westside| Antonia Prebble| 24| 8
+Shinchô yûsha ~ kono yûsha ga ore TUEEE kuse ni shinchô sugiru ~| Yuichiro Umehara| 44| 7
+Cake| Alex Anfanger| 23| 6
+Sanctuary| Josefin Asplund| 24| 7
+Durarara!!| Brian Beacock| 30| 8
+Black Jesus| """Gerald Slink Johnson"""| 24| 7
+The Michael J. Fox Show| Michael J. Fox| 24| 7
+Fancy Nancy| Mia Sinclair Jenness| 24| 6
+The Goes Wrong Show| Henry Shields| 24| 9
+Criminal Justice| Ben Whishaw| 24| 8
+Mr. Bean: The Animated Series| Rowan Atkinson| 24| 7
+There's Something About Movies| Alan Carr| 24| 8
+Star Wars: Forces of Destiny| """Lupita Nyongo"""| 24| 5
+Gogglebox| Ralf Woerdenweber| 24| 8
+Doraemon| Wasabi Mizuta| 24| 8
+Restaurant: Impossible| Robert Irvine| 24| 7
+Holly Hobbie| Ruby Jay| 24| 7
+Masamune-kun No Revenge| Caitlin Glass| 24| 6
+Five Bedrooms| Kat Stewart| 24| 8
+Gortimer Gibbon's Life on Normal Street| Sloane Morgan Siegel| 24| 8
+Sakurasou no Pet na Kanojo| Yoshitsugu Matsuoka| 24| 8
+Puncch Beat| Priyank Sharma| 24| 7
+Hunting Season| Ben Baur| 42| 7
+Carter| """Jerry OConnell"""| 40| 7
+Diablero| Christopher Von Uckermann| 45| 7
+Distrito Salvaje| Cristina Umaña| 60| 8
+Flavor of Love| Flavor Flav| 22| 5
+Tosh.0| Daniel Tosh| 60| 7
+BuzzFeed Unsolved: True Crime| Ryan Bergara| 44| 9
+1-800-Missing| Caterina Scorsone| 6| 6
+Unusual Suspects| Mocean Melvin| 25| 8
+Constantine: City of Demons| Matt Ryan| 100| 8
+The Celebrity Apprentice Australia| Mark Bouris| 22| 5
+Big Brother| Michael Goldman| 60| 4
+Medcezir| Çagatay Ulusoy| 30| 7
+Maron| Marc Maron| 44| 8
+Penn & Teller: Fool Us| Penn Jillette| 43| 8
+Other Space| Trace Beaulieu| 23| 7
+Chylka| Magdalena Cielecka| 22| 7
+Hubert und Staller| Christian Tramitz| 23| 8
+Wolverine and the X-Men| Steve Blum| 28| 8
+LA to Vegas| Kim Matula| 60| 7
+Home: Adventures with Tip & Oh| Rachel Crow| 42| 6
+Two Doors Down| Arabella Weir| 47| 8
+La rosa de Guadalupe| Susana Lozano| 30| 3
+Return to Amish| Jeremiah Raber| 22| 6
+Fact or Faked: Paranormal Files| Austin Porter| 52| 6
+Outsourced| Ben Rappaport| 30| 8
+Kuch Rang Pyar Ke Aise Bhi| Shaheer Sheikh| 11| 9
+Bolívar: Una lucha admirable| Luis Gerónimo Abreu| 30| 8
+Bad Teacher| Ari Graynor| 52| 5
+OK K.O.! Let's Be Heroes| Courtenay Taylor| 42| 7
+The Neighbors| Jami Gertz| 24| 7
+Hitori No Shita - The Outcast| | 24| 7
+Le temps est assassin| Stanley Weber| 50| 5
+90 Day Fiancé: Before the 90 Days| Darcey Silva| 25| 7
+ReLIFE| Josh Grelle| 25| 8
+The UnXplained| William Shatner| 60| 7
+Devils Line| Luci Christian| 4| 7
+Love Island Australia| Sophie Monk| 45| 5
+Romanzo criminale - La serie| Vinicio Marchioni| 60| 9
+Phoenix Nights| Peter Kay| 30| 9
+Finding Joy| Amy Huberman| 60| 6
+Heartbeat| Melissa George| 25| 7
+David's Vlog| David Dobrik| 25| 9
+The Nostalgia Critic| Doug Walker| 60| 8
+Penoza| Monic Hendrickx| 45| 8
+Misaeng| Si-wan Yim| 24| 9
+The Baxters| Ali Cobrin| 60| 8
+Australian Survivor| Jonathan LaPaglia| 120| 8
+Mahô Tsukai no Yome| Atsumi Tanezaki| 60| 8
+Super Mario Logan| Tito Jimenez| 60| 6
+Glow Up: Britain's Next Make-Up Star| Dominic C. Skinner| 60| 7
+Violetta| Diego Ramos| 53| 5
+K-On!| Aki Toyosaki| 24| 8
+The No. 1 Ladies' Detective Agency| Jill Scott| 60| 8
+Afili Ask| Caglar Ertugrul| 24| 6
+Karen Sisco| Carla Gugino| 43| 7
+The Good Guys| Bradley Whitford| 45| 8
+Siti hyunteo| Lee Min-Ho| 32| 8
+La víctima número 8| César Mateo| 30| 7
+Lego Masters Australia| Hamish Blake| 35| 9
+The Epic Tales of Captain Underpants| Nat Faxon| 45| 7
+Hot Ones| Sean Evans| 83| 8
+Gooreumi Geurin Dalbit| Park Bo-Gum| 50| 8
+Space Dandy| """Junichi Suwabe"""| 60| 8
+Rake| Greg Kinnear| 60| 7
+The Lone Gunmen| Bruce Harwood| 41| 7
+Paquita Salas| Brays Efe| 92| 8
+Eagleheart| Chris Elliott| 30| 7
+The Murder Tapes| Dave DeAndrea| 48| 8
+A House Divided| Dominique DuVernay| 40| 6
+Just Roll with It| Suzi Barrett| 45| 5
+Cyberchase| Christopher Lloyd| 30| 7
+Yeowoogakshibyeol| Lee Jehoon| 43| 7
+The Riches| Eddie Izzard| 24| 8
+Rebel| Danielle Moné Truitt| 60| 5
+Heimebane| Ane Dahl Torp| 30| 8
+The Bay| Kristos Andrews| 120| 7
+Escape to the Chateau DIY| Dick Strawbridge| 60| 8
+Hotel Babylon| Dexter Fletcher| 4| 8
+Mob City| Jon Bernthal| 30| 8
+Ex on the Beach| Welborn Ferrene| 1| 5
+Tannbach| Johanna Bittenbinder| 22| 8
+Hindsight| Laura Ramsey| 60| 8
+Leila| Huma Qureshi| 30| 5
+Rangbaaz| Jay Joshi| 40| 8
+Well-Intended Love| Xu Kai Cheng| 15| 7
+Rodney| Rodney Carrington| 30| 7
+APB| Justin Kirk| 25| 7
+Kimi ni todoke| Mamiko Noto| 90| 8
+Gordon Ramsay's 24 Hours to Hell and Back| Gordon Ramsay| 29| 7
+Cooper Barrett's Guide to Surviving Life| Jack Cutmore-Scott| 45| 6
+Kalp Atisi| Gökhan Alkan| 60| 7
+Drive| Kristin Lehman| 24| 8
+Call Me Fitz| Jason Priestley| 43| 7
+The Guild| Felicia Day| 60| 8
+Ren & Stimpy 'Adult Party Cartoon'| John Kricfalusi| 60| 6
+Weather Report| David Lynch| 26| 9
+Barnwood Builders| Mark Bowe| 42| 8
+The Tom and Jerry Show| Stephen Stanton| 30| 7
+The Halcyon| Annabelle Apsion| 22| 8
+Bajillion Dollar Propertie$| Dan Ahdoot| 55| 8
+Blood-C| Alexis Tipton| 24| 6
+Ragini MMS Returns| Divya Agarwal| 25| 4
+Picture Perfect Mysteries| Alexa PenaVega| 28| 7
+Aggretsuko| Ben Diskin| 30| 8
+Escape to the Country| Jules Hudson| 60| 7
+Log Horizon| Jad Saxton| 24| 8
+Busted! I Know Who You Are!| Jae-Suk Yoo| 30| 8
+Astrid et Raphaëlle| Sara Mortensen| 5| 8
+The Wrong Mans| Mathew Baynton| 60| 8
+Lykkeland| Mads Sjøgård Pettersen| 90| 8
+The Team| Lars Mikkelsen| 25| 7
+Darker Than Black: Kuro no keiyakusha| Jason Liebrecht| 35| 8
+Web of Lies| Nathan Wiley| 120| 8
+Sexy Urban Legends| Mick Thomas| 41| 6
+Extreme Makeover: Home Edition| Ty Pennington| 25| 6
+Mama June: From Not to Hot| Gina Rodriguez| 60| 4
+The Magic School Bus Rides Again| Mikaela Blake| 60| 6
+Unexpected| McKayla Adkins| 30| 5
+Coupling| Colin Ferguson| 22| 4
+Chrisley Knows Best| Faye Chrisley| 30| 5
+Vratice se rode| Nikola Djuricko| 60| 9
+Little Nightmares| | 43| 9
+Citrus| Tomoaki Maeno| 60| 6
+Skylanders Academy| Justin Long| 30| 7
+Him & Her| Russell Tovey| 11| 8
+Zeke and Luther| Hutch Dano| 44| 6
+Games People Play| Lauren London| 40| 6
+Married| Nat Faxon| 60| 7
+Meet the Browns| Denise Boutte| 21| 4
+Mommy XXX| Gina Rodriguez| 30| 6
+Will| Laurie Davidson| 25| 7
+Mystery Science Theater 3000: The Return| Felicia Day| 42| 8
+Maken-Ki! Battling Venus| Tia Lynn Ballard| 22| 6
+The Commons| Joanne Froggatt| 60| 6
+Shinibsagwan Goohaeryung| Shin Se-Kyung| 24| 8
+Vatanim Sensin| Halit Ergenç| 23| 8
+O Mecanismo| Caroline Abras| 60| 8
+Druck| Lea Zoë Voss| 60| 8
+Hernán| Ishbel Bautista| 23| 8
+Bomb Girls| Meg Tilly| 25| 8
+Me Chama de Bruna| Maria Bopp| 325| 7
+Those Who Can't| Maria Thayer| 22| 7
+Power Rangers R.P.M.| Eka Darville| 60| 7
+Blood and Water| Elfina Luk| 30| 5
+MasterChef Junior| Gordon Ramsay| 43| 7
+Swamp People| Troy Landry| 30| 6
+Si no t'hagués conegut| Pablo Derqui| 60| 8
+Manhattan Love Story| Lio Tipton| 45| 7
+Moral Orel| Carolyn Lawrence| 23| 8
+Siempre Tuya Acapulco| Camila Rojas| 12| 7
+Dark Tourist| David Farrier| 55| 8
+Bad Mothers| Tess Haubrich| 40| 6
+'Til Death| Brad Garrett| 60| 7
+Power Rangers DinoThunder| James Napier Robertson| 130| 7
+Gigolos| Nick Hawk| 22| 6
+Conviction| Hayley Atwell| 180| 7
+Devon Ke Dev... Mahadev| Mohit Raina| 45| 9
+Jinsimi Dadda| Lee Dong-Wook| 105| 8
+Kyoukai no kanata| Kenichiro Ohashi| 23| 7
+My Life as a Teenage Robot| Janice Kawaye| 60| 7
+Mistresses| Sarah Parish| 30| 8
+Recovery Road| Jessica Sula| 65| 8
+Peter Rabbit| Peter Harris| 23| 6
+Jonas| Kevin Jonas| 60| 5
+Ikki tôsen| Yûko Kaida| 60| 6
+Power Rangers Mystic Force| Firass Dirani| 2| 7
+Lipstick Jungle| Brooke Shields| 60| 7
+Nighty Night| Julia Davis| 65| 8
+Rock of Love with Bret Michaels| Bret Michaels| 60| 5
+O Ma-i Bi-neo-seu| So Ji-seob| 22| 8
+The Gifted| Korapat Kirdpan| 43| 8
+Blark and Son| Ben Bayouth| 60| 8
+Fate/stay night| Noriaki Sugiyama| 52| 7
+The Filthy Frank Show| Joji| 24| 9
+South Side| Sultan Salahuddin| 42| 8
+Osmosis| Agathe Bonitzer| 24| 6
+MTV Floribama Shore| Jeremiah Buoni| 25| 5
+The Talk| Sharon Osbourne| 24| 3
+America Says| John Michael Higgins| 60| 8
+Single-Handed| Owen McDonnell| 45| 8
+The Real L Word| Whitney Mixter| 45| 6
+Most Haunted| Yvette Fielding| 28| 5
+Sthlm Rekviem| Liv Mjönes| 8| 7
+Hex| Jemima Rooper| 30| 7
+Giruti kuraun: Guilty Crown| Yûki Kaji| 60| 7
+Dragons' Den| Evan Davis| 21| 7
+Johnny Test| James Arnold Taylor| 60| 5
+Eulachacha Waikiki| Yi-Kyeong Lee| 23| 8
+All Hail King Julien| Danny Jacobs| 42| 7
+Fastlane| Peter Facinelli| 25| 8
+Gone| Leven Rambin| 44| 7
+Gravity Falls Shorts| Alex Hirsch| 43| 8
+In Plain Sight| Michael Fleeman| 22| 8
+Dark Blue| Dylan McDermott| 24| 8
+Son: The Guest| Dong-wook Kim| 43| 8
+Teresa| Sebastián Rulli| 140| 8
+Nowhere Boys| Darci McDonald| 45| 7
+Black Dynamite| Michael Jai White| 60| 8
+Fear Itself| Margherita Donato| 30| 7
+The Black Donnellys| Jonathan Tucker| 43| 8
+Euphoria| Roni Dalumi| 60| 6
+Significant Mother| Josh Zuckerman| 60| 6
+Gangland Undercover| Damon Runyan| 150| 8
+N.H.K ni yôkoso!| Yutaka Koizumi| 48| 8
+Trolls: The Beat Goes On!| Amanda Leighton| 60| 6
+Kidou Senshi Gundam: Tekketsu no Orphans| Bill Rogers| 70| 8
+Bodies| Tamzin Malleson| 60| 9
+Shadow hunters| Sheng Ming He| 60| 7
+Diabolik Lovers| Bryson Baugus| 30| 5
+Frikjent| Nicolai Cleve Broch| 120| 8
+Fallet| Adam Godley| 42| 7
+Aynen Aynen| Nilperi Sahinkaya| 60| 8
+The Emperor's New School| J.P. Manoux| 30| 7
+She Spies| Natasha Henstridge| 3| 6
+Jann| Deborah Grover| 60| 7
+Queer Eye for the Straight Guy| Ted Allen| 24| 6
+Kick Buttowski: Suburban Daredevil| Charlie Schlatter| 24| 7
+Black Ink Crew| Ashley Nicole Bermudez| 24| 5
+Alpha House| John Goodman| 24| 8
+Mr & Mrs Murder| Shaun Micallef| 24| 7
+Bluff City Law| Jimmy Smits| 24| 7
+Power Rangers Jungle Fury| Jason Smith| 24| 7
+Ajin| Mamoru Miyano| 24| 8
+Summer House| Kyle Cooke| 24| 6
+Fazilet Hanim ve Kizlari| Nazan Kesal| 24| 7
+Advokaten| Alexander Karim| 24| 7
+Mad Dogs| Max Beesley| 24| 8
+Strange Days at Blake Holsey High| Emma Taylor-Isherwood| 24| 8
+The Twilight Zone| Forest Whitaker| 24| 7
+Merlí. Sapere Aude| Carlos Cuevas| 24| 8
+The Disappearance of Madeleine McCann| Anthony Summers| 24| 7
+Too Close to Home| Danielle Savre| 24| 5
+Sen Anlat Karadeniz| Ulas Tuna Astepe| 24| 6
+Suspects| Damien Molony| 24| 7
+The Web of Spider-Man| Brandon Melo| 24| 7
+Dae Jang-geum| Lee Yeong-ae| 24| 9
+La caza. Monteperdido| Megan Montaner| 24| 7
+La esclava blanca| Cristina García| 24| 8
+Nae Aidineun Gangnammiin| Soo-hyang Im| 24| 8
+All That| Chinguun Sergelen| 24| 6
+Ask Aglatir| Deniz Can Aktas| 24| 5
+American Monster| Tom Streithorst| 24| 8
+The Red Line| Noah Wyle| 24| 6
+Proven Innocent| Rachelle Lefevre| 24| 7
+In the Long Run| Jimmy Akingbola| 24| 8
+Barbie: Life in the Dreamhouse| Kate Higgins| 24| 7
+Slings and Arrows| Paul Gross| 24| 9
+Ubice mog oca| Vuk Kostic| 60| 8
+Haereul poomeun dal| Mi-seon Jeon| 60| 8
+Herrens veje| Lars Mikkelsen| 70| 8
+Glacé| Charles Berling| 22| 6
+Corner Gas Animated| Brent Butt| 60| 8
+Car S.O.S.| Tim Shaw| 45| 8
+The Division| Bonnie Bedelia| 49| 7
+Rubicon| James Badge Dale| 25| 8
+Footballers' Wives| Gillian Taylforth| 60| 6
+Wow! Wow! Wubbzy!| Julie-Ann Dean| 30| 6
+The Level| Lindsey Coulson| 45| 7
+Legit| Jim Jefferies| 60| 8
+Unsellable Houses| Leslie Davis| 30| 6
+Bedlam| Hugo Speer| 30| 7
+Sesang Eodiedo Eobneun Chakhan Namja| Song Joong-ki| 22| 8
+Gen: Lock| Michael B. Jordan| 21| 7
+Hunderby| Julia Davis| 60| 8
+King Gary| Tom Davis| 60| 7
+Yonderland| Mathew Baynton| 43| 8
+Hollywood Darlings| Beverley Mitchell| 24| 7
+Ex on the Beach| Andrew Maxwell| 2| 5
+Crisis| Dermot Mulroney| 90| 7
+Harry's Law| Kathy Bates| 25| 7
+Strike the Blood| Asami Seto| 60| 7
+Descendants: Wicked World| Dove Cameron| 30| 7
+The Murdoch Mysteries| Peter Outerbridge| 43| 8
+Trailer Park Boys: The Animated Series| John Paul Tremblay| 60| 8
+Capadocia| Dolores Heredia| 60| 8
+The Characters| John T. Reynolds| 60| 5
+Single Ladies| Travis Winfrey| 20| 6
+In My Skin| Gabrielle Creevy| 25| 8
+Survivors| Julie Graham| 43| 8
+Los simuladores| """Federico DElía"""| 43| 9
+Through the Wormhole| Morgan Freeman| 45| 9
+La niña| Ana María Estupiñán| 60| 9
+Mia and Me| Rosabell Laurenti Sellers| 30| 7
+Skam España| Alba Planas| 42| 8
+The Real Housewives of Potomac| Gizelle Bryant| 22| 5
+Blood Ties| Christina Cox| 13| 7
+The Universe| Erik Thompson| 44| 9
+Betrayal| Hannah Ware| 37| 7
+There She Goes| David Tennant| 56| 8
+Nieuwe buren| Bracha van Doesburgh| 15| 7
+Kitchen Confidential| Bradley Cooper| 21| 8
+Zhen Hun Jie| | 43| 8
+Funny or Die Presents...| Steve Tom| 24| 6
+A.D. The Bible Continues| Richard Coyle| 30| 8
+Let's Make a Deal| Wayne Brady| 90| 6
+Skylines| Peri Baumeister| 60| 8
+Uncle Grandpa| Peter Browngardt| 23| 4
+Ru yi zhuan| Xun Zhou| 45| 8
+The Muppets.| Dave Goelz| 22| 7
+The Middleman| Matt Keeslar| 43| 8
+A to Z| Ben Feldman| 44| 7
+Best Baker in America| Jason Smith| 49| 7
+Marry Me| Casey Wilson| 120| 6
+The Crossword Mysteries| Lacey Chabert| 60| 8
+Hamburo Aeteuthage| Woo-bin Kim| 30| 8
+To aru majutsu no indekkusu| Monica Rial| 42| 7
+Dietland| Joy Nash| 15| 7
+South of Nowhere| Gabrielle Christian| 45| 8
+Low Winter Sun| Mark Strong| 60| 7
+Gidseltagningen| Johannes Lassen| 45| 7
+ReGenesis| Peter Outerbridge| 42| 8
+Her Yerde Sen| Furkan Andic| 44| 7
+Guilt| Daisy Head| 35| 6
+BeTipul| Assi Dayan| 22| 8
+Blood & Oil| Don Johnson| 24| 7
+Kings of Con| Rob Benedict| 23| 8
+Fartblinda| Julia Ragnarsson| 80| 7
+Iron Chef America: The Series| Alton Brown| 44| 7
+Top Gear USA| Tanner Foust| 23| 5
+The Real| Adrienne Houghton| 44| 5
+Huge| Nikki Blonsky| 60| 7
+Yeolhyeolsaje| Nam-gil Kim| 50| 8
+Wabbit: A Looney Tunes Production| Jeff Bergman| 30| 6
+Wakfu| Fanny Bloc| 50| 8
+Garfunkel and Oates| Riki Lindhome| 24| 8
+Maen Too Maen| Park Hae-Jin| 42| 7
+Blackstone| Carmen Moore| 4| 8
+Malibu Rescue| Ricardo Hurtado| 24| 6
+Gakusen toshi asterisk| Atsushi Tamaru| 120| 7
+The River| Bruce Greenwood| 60| 7
+Lincoln Heights| Russell Hornsby| 45| 8
+La peste| Pablo Molinero| 43| 7
+Real Rob| Rob Schneider| 45| 6
+Morangos com Açúcar| Vítor Fonseca| 45| 4
+Bloom Into You| Tia Lynn Ballard| 11| 8
+Copper| Tom Weston-Jones| 60| 8
+American Horror Story FreakShow: Extra-Ordinary-Artists| Jyoti Amge| 60| 8
+Ölene Kadar| Engin Akyürek| 13| 7
+Bionic Woman| Michelle Ryan| 11| 6
+Greyzone| Birgitte Hjort Sørensen| 55| 7
+Emily Owens M.D.| Mamie Gummer| 45| 8
+A League of Their Own| Andrew Flintoff| 60| 8
+The Only Way Is Essex| Denise Van Outen| 27| 3
+The Stinky & Dirty Show| Issac Ryan Brown| 60| 7
+Close to Home| Jennifer Finnigan| 4| 7
+Äkta människor| Lisette Pagler| 10| 8
+World Trigger| Yûki Kaji| 30| 8
+Richard Osman's House of Games| Richard Osman| 30| 8
+Little Lunch| Flynn Curry| 24| 8
+Blippi| Stevin John| 26| 8
+Rotten| Latif Nasser| 60| 7
+Nyukhach| Kirill Käro| 42| 7
+The L.A. Complex| Jonathan Patrick Moore| 30| 7
+The Kicks| Sixx Orange| 45| 7
+The Kelly Clarkson Show| Kelly Clarkson| 43| 5
+Between Two Ferns with Zach Galifianakis| Zach Galifianakis| 24| 8
+Superjail!| David Wain| 60| 8
+Turn Up Charlie| Idris Elba| 22| 7
+Camp Lazlo!| Carlos Alazraqui| 24| 6
+Quan Zhi Gao Shou| Ketsu| 60| 8
+The Suspicions of Mr Whicher| Paddy Considine| 26| 8
+Merry Happy Whatever| Dennis Quaid| 50| 6
+Surface| Lake Bell| 30| 7
+Hostages| Toni Collette| 22| 7
+La Jauría| Antonia Zegers| 42| 6
+Hardy Bucks| Owen Colgan| 60| 8
+Rig 45| Lisa Henni| 70| 6
+Shots Fired| Sanaa Lathan| 24| 7
+Philosopher's Grandson| Katelyn Barr| 13| 7
+Gae-in-eui chwi-hyang| Son Ye-jin| 42| 7
+Cory in the House| Kyle Massey| 22| 5
+Saenai hiroin no sodatekata| Yoshitsugu Matsuoka| 60| 7
+Ad Vitam| Yvan Attal| 14| 7
+Lockie Leonard| Sean Keenan| 60| 8
+Sturm der Liebe| Dirk Galuba| 15| 4
+Breaking In| Bret Harrison| 60| 7
+Dan Vs.| Curtis Armstrong| 7| 8
+Primeval: New World| Niall Matter| 25| 7
+Ailiseu| Yeong-cheol Kim| 11| 8
+Sikago Tajagi| Yoo Ah-in| 23| 8
+Yojo Senki: Saga of Tanya the Evil| Amber Lee Connors| 60| 8
+The Bad Seed| Matt Minto| 22| 6
+The IMDb Show| Tim Kash| 60| 6
+River Monsters| Jeremy Wade| 30| 8
+Sommaren med släkten| Rakel Wärmländer| 30| 7
+Choi-kang Bae-dal-ggun| Go Kyung-Pyo| 60| 7
+New Blood| Mark Strepan| 5| 7
+The Deleted| Nash Grier| 120| 4
+Dicte| Iben Hjejle| 47| 7
+My Lottery Dream Home| David Bromstad| 4| 6
+Mandy| Diane Morgan| 24| 7
+Los Serrano| Antonio Resines| 24| 7
+Minecraft: Story Mode| Catherine Taber| 52| 6
+Kaamelott| Alexandre Astier| 22| 9
+Hip Whip Girl: Keijo!!!!!!| Lynn| 58| 7
+Unearthed| Steven Kearney| 55| 8
+Beaver Falls| Samuel Robertson| 33| 8
+Horrid Henry| Lizzie Waterworth| 7| 6
+Touching Evil| Jeffrey Donovan| 22| 8
+Beware the Batman| Anthony Ruivivar| 5| 7
+Lost Gold of WW2| John Casey| 25| 7
+Viva la Bam| Chris Raab| 42| 7
+All of Us| Duane Martin| 24| 6
+Syucheu| Jang Dong-Gun| 60| 7
+Vixen| Megalyn Echikunwoke| 23| 7
+Meryem| Furkan Andic| 42| 6
+Afterlife| Lesley Sharp| 60| 8
+Carmilla| Elise Bauman| 30| 8
+O Maidens in Your Savage Season| Elissa Cuellar| 60| 7
+Kung Fu Panda: The Paws of Destiny| Laya DeLeon Hayes| 60| 8
+Maison close| Anne Charrier| 60| 7
+The Unsettling| Holly Taylor| 42| 5
+Tjockare än vatten| Björn Bengtsson| 60| 7
+Huff| Hank Azaria| 45| 8
+Mother Goose Club| Joseph Lopez| 30| 8
+Sin City Diaries| Amber Smith| 30| 7
+Bee and PuppyCat| Allyn Rachel| 50| 8
+Man v. Food| Adam Richman| 120| 7
+Carole & Tuesday| Miyuri Shimabukuro| 90| 8
+Numberblocks| Beth Chalmers| 9| 8
+Monogatari Series: Second Season| Yôji Ueda| 60| 9
+Kevin (Probably) Saves the World| Jason Ritter| 60| 8
+How It's Made| Brooks T. Moore| 43| 8
+Crash| Dennis Hopper| 22| 7
+See Dad Run| Scott Baio| 60| 5
+Bachelor in Paradise| Chris Harrison| 24| 5
+Eobiseu| Park Bo-Young| 65| 7
+Braceface| Marnie McPhail| 55| 6
+Best of the Worst| Jay Bauman| 22| 9
+Trackers| Keenan Arrison| 30| 7
+Betty en NY| Elyfer Torres| 55| 8
+Naeil Geudaewa| Lee Jehoon| 60| 8
+Kindred Spirits| Amy Bruni| 5| 7
+Iron Resurrection| Joe Martin| 30| 8
+Instant Hotel| Juliet Ashworth| 23| 7
+Some Girls| Adelayo Adedayo| 22| 8
+Kirstie| Kirstie Alley| 5| 5
+One Dollar| Nathaniel Martello-White| 60| 7
+Tatli intikam| Leyla Lydia Tugutlu| 30| 6
+Murder City| Amanda Donohoe| 120| 7
+Super Girl| Tiffany Kathryn| 60| 5
+Medal of Honor| Josh Charles| 35| 8
+American Odyssey| Anna Friel| 90| 7
+Love Is_| William Catlett| 60| 8
+The Sarah Silverman Program.| Sarah Silverman| 45| 7
+True Justice| Steven Seagal| 60| 5
+Baki the Grappler| Bob Carter| 45| 8
+Melloga Chejil| Woo-hee Chun| 30| 8
+Arvingerne| Trine Dyrholm| 90| 8
+Best of Luck Nikki| Sheena Bajaj| 22| 8
+Napoleon Dynamite| Jon Heder| 54| 6
+Sora no otoshimono| Jamie Marchi| 60| 7
+A mi kis falunk| Imre Csuja| 60| 8
+Dakaretai Otoko 1-i ni Odosarete Imasu.| Yuki Ono| 50| 7
+Ultimate Beastmaster| Tiki Barber| 21| 7
+The Plateaus| Annie Murphy| 30| 5
+A Crime to Remember| Marc A. Hermann| 60| 8
+Ultraviolet| Viet Anh Do| 60| 7
+A Drop of True Blood| Claudia Abrego| 45| 8
+Yu-Gi-Oh! GX| Matthew Labyorteaux| 30| 7
+Special Agent Oso| Meghan Strange| 42| 5
+Metal Hurlant Chronicles| Scott Adkins| 22| 6
+Bravest Warriors| Liliana Mumy| 12| 8
+Unidentified: Inside America's UFO Investigation| Bryan Bender| 24| 8
+Time After Time| Freddie Stroma| 24| 7
+Stripperella| Pamela Anderson| 24| 6
+Günesin Kizlari| Emre Kinay| 24| 6
+Merlin: Secrets & Magic| Greg James| 24| 8
+Law & Order: Trial by Jury| Bebe Neuwirth| 24| 6
+Iriwa Anajwo| Jang Ki-Yong| 24| 8
+Seref Meselesi| Kerem Bürsin| 24| 6
+Jack & Bobby| Christine Lahti| 24| 8
+Men in Trees| Anne Heche| 24| 7
+The Living and the Dead| Colin Morgan| 24| 7
+Alias J.J.| Amparo Grisales| 24| 8
+High Maintenance| Ben Sinclair| 24| 8
+20 Dakika| Tuba Büyüküstün| 24| 7
+Ben and Kate| Dakota Johnson| 24| 7
+The Time of Our Lives| Justine Clarke| 24| 8
+King & Maxwell| Jon Tenney| 24| 7
+Maya & Marty| Maya Rudolph| 24| 7
+The Electric Company| Jenni Barber| 24| 7
+My First First Love| Tae-oh Kang| 24| 8
+Kevin from Work| Noah Reid| 24| 7
+Metaru faito Beibureedo| Jason Deline| 24| 6
+The Five| Dana Perino| 24| 6
+The Beautiful Life: TBL| Mischa Barton| 24| 6
+Star Trek: New Voyages| Charles Root| 24| 7
+Panic| Christopher Cox| 24| 9
+Ryan Hansen Solves Crimes on Television| Ryan Hansen| 24| 7
+Doubt| Katherine Heigl| 24| 6
+Friends with Better Lives| James Van Der Beek| 24| 7
+Love Daily| Kelli Berglund| 24| 6

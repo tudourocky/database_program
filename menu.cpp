@@ -72,9 +72,9 @@ void Menu::add_series(){
         cin >> n1;
     }
     se.set_Episodes(n1);
-    cout << "Please enter the rating of the TV serie: (an interger between 1 to 5) " << endl;
+    cout << "Please enter the rating of the TV serie: (an interger between 1 to 9) " << endl;
     cin >> n2;
-    while (n2 < 1 || n2 > 5){
+    while (n2 < 1 || n2 > 9){
         cout << "Please enter a valid rating: " << endl;
         cin.clear();
         cin.ignore( 1000, '\n' );
@@ -225,7 +225,7 @@ void Menu::find_series(){
         cout << "Please enter the rating: \n";
         int temp = 0;
         cin >> temp;
-        while (temp < 1 || temp > 5) // the longest TV series has 635 episodes according to Google
+        while (temp < 1 || temp > 9) // the longest TV series has 635 episodes according to Google
         {
             cout << "Please enter a valid rating number:" << endl;
             cin.clear();
@@ -242,7 +242,7 @@ void Menu::find_series(){
             int n1 = 0;
             int n2 = 0;
             cin >> n1;
-            while (n1 < 1 || n1 > 5)
+            while (n1 < 1 || n1 > 9)
             {
                 cout << "Please enter a valid rating number:" << endl;
                 cin.clear();
@@ -251,7 +251,7 @@ void Menu::find_series(){
             }
             cout << "Please enter the ending number\n";
             cin >> n2;
-            while (n2 < 1 || n2 > 5)
+            while (n2 < 1 || n2 > 9)
             {
                 cout << "Please enter a valid rating number:" << endl;
                 cin.clear();
@@ -373,7 +373,7 @@ void Menu::delete_series(){
         cout << "Please enter the rating: \n";
         int temp = 0;
         cin >> temp;
-        while (temp < 1 || temp > 5)
+        while (temp < 1 || temp > 9)
         {
             cout << "Please enter a valid rating number:" << endl;
             cin.clear();
