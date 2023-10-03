@@ -10,10 +10,7 @@ void Database::update_database(){
     string temp;
     int period = 0;
     series.clear();
-    int counter = 0;
     while(getline(input, line)){
-        cout << counter++ << endl;
-        cout << line << endl;
         for(int i = 0; i < line.size(); i++) {
             if(line[i]=='|' || i == line.size()-1){
                 period++;
@@ -535,7 +532,7 @@ void Database::list_reverse_alpha_director(){
 void Database::list_ascending(){
     cout << "Listing all TV series" << endl
         << "======================================" << endl;
-    for(int i = 1; i <= 5; i++){
+    for(int i = 1; i <= 9; i++){
         for(int j = 0; j < series.size(); j++){
             if (i == series[j].get_Rating()){
                 println_serie(series[j]);
@@ -548,7 +545,7 @@ void Database::list_ascending(){
 void Database::list_descending(){
     cout << "Listing all TV series" << endl
         << "======================================" << endl;
-    for(int i = 5; i > 0; i--){
+    for(int i = 9; i > 0; i--){
         for(int j = 0; j < series.size(); j++){
             if (i == series[j].get_Rating()){
                 println_serie(series[j]);
